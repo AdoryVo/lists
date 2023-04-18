@@ -2,7 +2,7 @@
 title: lists
 tagline: 🥙 Lists about stuff
 description: 🥙 Lists about stuff
-url: https://adoryvo.github.io/lists/
+url: https://adoryvo.github.io
 twitter: https://twitter.com/adoryvo
 logo: https://adoryvo.github.io/lists/stuffed-flatbread.png
 
@@ -21,3 +21,4 @@ remote_theme: "dracula/gh-pages"
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
