@@ -1,6 +1,6 @@
 # Web-based games like Wordle, daily crosswords, etc.
 
-### Key (indicating included functionality)
+### 🔑 Key (indicating included functionality)
 - 🧑‍🤝‍🧑= Multiplayer
 - 🔀 = Not daily (replayable)
 - ♾️ = Unlimited (or archived) rounds

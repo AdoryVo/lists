@@ -16,7 +16,7 @@ github:
   repository_url: https://github.com/AdoryVo/lists
 
 show_downloads: true
-show_header: true
+show_header: false
 remote_theme: "dracula/gh-pages"
 
 plugins:
