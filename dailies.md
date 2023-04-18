@@ -21,6 +21,10 @@
 - [Framed](https://framed.wtf) - Guess the movie based on its frames
 - [Movie to Movie](https://movietomovie.com) - Find a path between two movies by connecting them via actors and actresses who appeared together
 
+## 🏠 Real Estate
+- [Housle](https://housle.house) - Guess the asking price of a house based on pictures and clues
+- [Listed](https://listed.fun) - Guess the sale price of a property based on pictures and clues
+
 ## 🔠 Word
 - [Absurdle](https://qntm.org/files/absurdle/absurdle.html) (🔀) - Wordle, but the word changes after each guess (except for the letters you've determined)
 - [Down for a Cross](https://downforacross.com) (🧑‍🤝‍🧑,♾️) - Daily crosswords from various sites playable for free
@@ -31,6 +35,7 @@
 
 ## 🌍 World
 - [Globle](https://globle-game.com) - Guess the country on a globe with hints based on proximity (hot or cold)
+- [TimeGuessr](https://timeguessr.com) (♾️) - Guess the time and location pictures are taken in
 - [Tradle](https://oec.world/en/tradle) - Guess the country based on their trade exports
 - [Worldle](https://worldle.teuteuf.fr) - Guess the country based on shape
 
@@ -40,7 +45,11 @@
 	- (♾️) Playable up to a week in the past (unlimited with subscription)
 - [Heardle](https://www.spotify.com/heardle) by Spotify - Guess the song based on its first 16 seconds
 	- (♾️) Playable up to ~30 days in the past by changing your computer's date back one day at a time
+- [Hertl](https://www.hertl.app) - Guess the NHL player based on clues
 - [Trivia Daily Dose](www.sporcle.com#daily-dose-section) by Sporcle (♾️) - A variety of Sporcle quizzes in random topics
 	- [Archive of previous daily quizzes](https://www.sporcle.com/games/tags/dailydose)
 - [Wikipedia Speedrun](https://wikispeedruns.com) (♾️) - Get from a starting article to an end article just through Wikipedia links
 	- (🧑‍🤝‍🧑) Playable in a private lobby if you create an account
+
+---
+*Inspired by [Northernlion's content](https://www.twitch.tv/videos/1793513540)!*

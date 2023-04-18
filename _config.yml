@@ -1,0 +1,23 @@
+# SEO Values
+title: lists
+tagline: 🥙 Lists about stuff
+description: 🥙 Lists about stuff
+url: https://adoryvo.github.io/lists/
+twitter: https://twitter.com/adoryvo
+logo: https://adoryvo.github.io/lists/stuffed-flatbread.png
+
+# Google Analytics ID
+google_analytics: G-LELY1VTS1V
+
+# GitHub Values
+github:
+  owner_name: Adory Vo
+  owner_url: https://github.com/AdoryVo
+  repository_url: https://github.com/AdoryVo/lists
+
+show_downloads: true
+show_header: true
+remote_theme: "dracula/gh-pages"
+
+plugins:
+  - jekyll-seo-tag
