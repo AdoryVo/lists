@@ -11,6 +11,7 @@
 - [Guess The Game](https://guessthe.game) - Guess the game based on gameplay images
 - [LoLdle](https://loldle.net) - Guess League of Legends champions based on a variety of criteria
 - [Rankdle](https://rankdle.com) - Guess the rank of players from different games based on their plays
+- [Sqwordle](https://www.sqwordle.io) & [Squirdle](https://squirdle.fireblend.com/daily.html) (♾️) - Guess the Pokémon based on a variety of traits
 - [Who's That Pokémon?](https://gearoid.me/pokemon/) (🔀) - Guess the Pokémon based on its silhouette
 
 ## 🎬 Movies
@@ -40,16 +41,18 @@
 - [Worldle](https://worldle.teuteuf.fr) - Guess the country based on shape
 
 ## 🥙 Miscellaneous
+- [Chronogram](https://chronogram.chat) - Guess who the historical figure is by discussing with their reconstructed AI models
 - [Chronophoto](https://www.chronophoto.app) (♾️) - Guess the year pictures are taken in
 - [Daily chess puzzle](https://www.chess.com/daily-chess-puzzle) by Chess.com - Find the best moves in a daily chess position
 	- (♾️) Playable up to a week in the past (unlimited with subscription)
 - [Heardle](https://www.spotify.com/heardle) by Spotify - Guess the song based on its first 16 seconds
 	- (♾️) Playable up to ~30 days in the past by changing your computer's date back one day at a time
 - [Hertl](https://www.hertl.app) - Guess the NHL player based on clues
+- [Plurality](https://www.plurality.fun) - Guess top answers to survey questions given to a collection of users
 - [Trivia Daily Dose](www.sporcle.com#daily-dose-section) by Sporcle (♾️) - A variety of Sporcle quizzes in random topics
 	- [Archive of previous daily quizzes](https://www.sporcle.com/games/tags/dailydose)
 - [Wikipedia Speedrun](https://wikispeedruns.com) (♾️) - Get from a starting article to an end article just through Wikipedia links
 	- (🧑‍🤝‍🧑) Playable in a private lobby if you create an account
 
 ---
-*Inspired by [Northernlion's content](https://www.twitch.tv/videos/1793513540)!*
+*Inspired by [Northernlion's content](https://youtu.be/JA9o6c7k62Y)!*
