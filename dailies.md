@@ -10,6 +10,7 @@
 - [Gamedle](https://www.gamedle.wtf) (♾️) - Guess the game based on cover, artwork, or specifications
 - [Guess The Game](https://guessthe.game) - Guess the game based on gameplay images
 - [LoLdle](https://loldle.net) - Guess League of Legends champions based on a variety of criteria
+- [Pokémon Cries](https://pokemoncries.com) - Guess the Pokémon based on its cry via multiple choice
 - [Rankdle](https://rankdle.com) - Guess the rank of players from different games based on their plays
 - [Sqwordle](https://www.sqwordle.io) & [Squirdle](https://squirdle.fireblend.com/daily.html) (♾️) - Guess the Pokémon based on a variety of traits
 - [Who's That Pokémon?](https://gearoid.me/pokemon/) (🔀) - Guess the Pokémon based on its silhouette
@@ -38,6 +39,7 @@
 - [Globle](https://globle-game.com) - Guess the country on a globe with hints based on proximity (hot or cold)
 - [TimeGuessr](https://timeguessr.com) (♾️) - Guess the time and location pictures are taken in
 - [Tradle](https://oec.world/en/tradle) - Guess the country based on their trade exports
+- [Travle](https://imois.in/games/travle) - Guess countries to make a connected land path between two given countries
 - [Worldle](https://worldle.teuteuf.fr) - Guess the country based on shape
 
 ## 🥙 Miscellaneous
