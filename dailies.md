@@ -24,6 +24,11 @@
 - [Framed](https://framed.wtf) - Guess the movie based on its frames
 - [Movie to Movie](https://movietomovie.com) - Find a path between two movies by connecting them via actors and actresses who appeared together
 
+## 🎵 Music
+- [Bandle](https://bandle.app) - Guess the song based on a series of revealed instrument melodies
+- [Musicle](https://musicle.app) - Guess songs based off of music snippets
+- [PopIdle](https://popidle.the-sound.co.uk/) - Guess the album based on pixels from its album cover
+
 ## 🏠 Real Estate
 - [Housle](https://housle.house) - Guess the asking price of a house based on pictures and clues
 - [Listed](https://listed.fun) - Guess the sale price of a property based on pictures and clues
@@ -48,8 +53,6 @@
 - [Chronophoto](https://www.chronophoto.app) (♾️) - Guess the year pictures are taken in
 - [Daily chess puzzle](https://www.chess.com/daily-chess-puzzle) by Chess.com - Find the best moves in a daily chess position
 	- (♾️) Playable up to a week in the past (unlimited with subscription)
-- [Heardle](https://www.spotify.com/heardle) by Spotify - Guess the song based on its first 16 seconds
-	- (♾️) Playable up to ~30 days in the past by changing your computer's date back one day at a time
 - [Hertl](https://www.hertl.app) - Guess the NHL player based on clues
 - [Plurality](https://www.plurality.fun) - Guess top answers to survey questions given to a collection of users
 - [Trivia Daily Dose](www.sporcle.com#daily-dose-section) by Sporcle (♾️) - A variety of Sporcle quizzes in random topics
