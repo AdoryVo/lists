@@ -11,8 +11,11 @@
 - [Guess The Game](https://guessthe.game) - Guess the game based on gameplay images
 - [LoLdle](https://loldle.net) - Guess League of Legends champions based on a variety of criteria
 - [Lostgamer](https://lostgamer.io/) - Guess your location in video game maps from a first-person street view (like Geoguessr)
+- [PokeDoku](https://pokedoku.com) - Guess a grid of Pokémon who match certain criteria
+- [Pokédle](https://pokedle.net) - Guess Pokémon based on a variety of criteria (like LoLdle!)
 - [Pokémon Cries](https://pokemoncries.com) - Guess the Pokémon based on its cry via multiple choice
 - [Rankdle](https://rankdle.com) - Guess the rank of players from different games based on their plays
+- [Smashdle](https://smashdle.net) - Guess the Smash character based on a variety of criteria
 - [Sqwordle](https://www.sqwordle.io) & [Squirdle](https://squirdle.fireblend.com/daily.html) (♾️) - Guess the Pokémon based on a variety of traits
 - [Who's That Pokémon?](https://gearoid.me/pokemon/) (🔀) - Guess the Pokémon based on its silhouette
 
