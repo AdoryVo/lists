@@ -25,6 +25,7 @@
 - [Cine2Nerdle](https://www.cinenerdle2.app) - Organize a grid of movies based on shared actors, plot points, and movie information
 - [Daily Tomato](https://www.rottentomatoes.com/daily) by Rotten Tomatoes - Guess the movie title based on a series of clues
 - [Framed](https://framed.wtf) - Guess the movie based on its frames
+- [MovieGrid.io](https://moviegrid.io) - Guess a grid of movies that match certain criteria
 - [Movie to Movie](https://movietomovie.com) - Find a path between two movies by connecting them via actors and actresses who appeared together
 
 ## 🎵 Music
@@ -38,9 +39,11 @@
 
 ## 🔠 Word
 - [Absurdle](https://qntm.org/files/absurdle/absurdle.html) (🔀) - Wordle, but the word changes after each guess (except for the letters you've determined)
+- [Connections](https://www.nytimes.com/games/connections) - Guess how a variety of words group into four different categories
 - [Down for a Cross](https://downforacross.com) (🧑‍🤝‍🧑,♾️) - Daily crosswords from various sites playable for free
 - [Quordle](https://www.merriam-webster.com/games/quordle) by Merriam-Webster - Guess four words at a time based on correct letters
 - [Semantle](https://semantle.com) (🧑‍🤝‍🧑) - Guess the word with hints based on closeness of meaning to the actual word
+- [Spellcheck](https://spellcheckgame.com) - Like a spelling bee, try to spell a series of words based on their pronunciation
 - [Waffle](https://wafflegame.net) - Wordle but in a waffle-shaped grid of six words
 - [Wordle](https://www.nytimes.com/games/wordle) - Guess the word with hints based on correct letters
 
@@ -54,8 +57,10 @@
 ## 🥙 Miscellaneous
 - [Chronogram](https://chronogram.chat) - Guess who the historical figure is by discussing with their reconstructed AI models
 - [Chronophoto](https://www.chronophoto.app) (♾️) - Guess the year pictures are taken in
+- [Costcodle](https://costcodle.com) - Guess the approximate price of a random Costco item
 - [Daily chess puzzle](https://www.chess.com/daily-chess-puzzle) by Chess.com - Find the best moves in a daily chess position
 	- (♾️) Playable up to a week in the past (unlimited with subscription)
+- [Daily Dozen Trivia](https://dailydozentrivia.com) - Answer trivia about 9 different topics
 - [Hertl](https://www.hertl.app) - Guess the NHL player based on clues
 - [Plurality](https://www.plurality.fun) - Guess top answers to survey questions given to a collection of users
 - [Trivia Daily Dose](www.sporcle.com#daily-dose-section) by Sporcle (♾️) - A variety of Sporcle quizzes in random topics
