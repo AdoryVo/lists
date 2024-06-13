@@ -61,6 +61,7 @@
 - [Daily chess puzzle](https://www.chess.com/daily-chess-puzzle) by Chess.com - Find the best moves in a daily chess position
 	- (♾️) Playable up to a week in the past (unlimited with subscription)
 - [Daily Dozen Trivia](https://dailydozentrivia.com) - Answer trivia about 9 different topics
+- [FoodGuessr](https://www.foodguessr.com) (♾️) - Guess the country a dish is from based on its ingredients and description
 - [Hertl](https://www.hertl.app) - Guess the NHL player based on clues
 - [Plurality](https://www.plurality.fun) - Guess top answers to survey questions given to a collection of users
 - [Trivia Daily Dose](www.sporcle.com#daily-dose-section) by Sporcle (♾️) - A variety of Sporcle quizzes in random topics
