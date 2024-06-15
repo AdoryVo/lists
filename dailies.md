@@ -20,6 +20,7 @@
 - [Who's That Pokémon?](https://gearoid.me/pokemon/) (🔀) - Guess the Pokémon based on its silhouette
 
 ## 🎬 Movies
+- [Acted](https://acted.wtf) - Guess the name of a movie based on images of its actors
 - [Box Office Game](https://boxofficega.me) - Guess movies released on a random weekend based on a series of clues
 	- (♾️) All archived games are accessible with a donation of any amount
 - [Cine2Nerdle](https://www.cinenerdle2.app) - Organize a grid of movies based on shared actors, plot points, and movie information
