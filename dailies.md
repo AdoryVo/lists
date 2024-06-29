@@ -10,21 +10,20 @@
 - [Gamedle](https://www.gamedle.wtf) (♾️) - Guess the game based on cover, artwork, or specifications
 - [Guess The Game](https://guessthe.game) - Guess the game based on gameplay images
 - [LoLdle](https://loldle.net) - Guess League of Legends champions based on a variety of criteria
-- [Lostgamer](https://lostgamer.io/) - Guess your location in video game maps from a first-person street view (like Geoguessr)
+- [Lostgamer](https://lostgamer.io) - Guess your location in video game maps from a first-person street view (like Geoguessr)
 - [PokeDoku](https://pokedoku.com) - Guess a grid of Pokémon who match certain criteria
 - [Pokédle](https://pokedle.net) - Guess Pokémon based on a variety of criteria (like LoLdle!)
 - [Pokémon Cries](https://pokemoncries.com) - Guess the Pokémon based on its cry via multiple choice
 - [Rankdle](https://rankdle.com) - Guess the rank of players from different games based on their plays
 - [Smashdle](https://smashdle.net) - Guess the Smash character based on a variety of criteria
-- [Sqwordle](https://www.sqwordle.io) & [Squirdle](https://squirdle.fireblend.com/daily.html) (♾️) - Guess the Pokémon based on a variety of traits
-- [Who's That Pokémon?](https://gearoid.me/pokemon/) (🔀) - Guess the Pokémon based on its silhouette
+- [Squirdle](https://squirdle.fireblend.com/daily.html) (♾️) - Guess the Pokémon based on a variety of traits
+- [Who's That Pokémon?](https://gearoid.me/pokemon) (🔀) - Guess the Pokémon based on its silhouette
 
 ## 🎬 Movies
 - [Acted](https://acted.wtf) - Guess the name of a movie based on images of its actors
 - [Box Office Game](https://boxofficega.me) - Guess movies released on a random weekend based on a series of clues
 	- (♾️) All archived games are accessible with a donation of any amount
 - [Cine2Nerdle](https://www.cinenerdle2.app) - Organize a grid of movies based on shared actors, plot points, and movie information
-- [Daily Tomato](https://www.rottentomatoes.com/daily) by Rotten Tomatoes - Guess the movie title based on a series of clues
 - [Framed](https://framed.wtf) - Guess the movie based on its frames
 - [MovieGrid.io](https://moviegrid.io) - Guess a grid of movies that match certain criteria
 - [Movie to Movie](https://movietomovie.com) - Find a path between two movies by connecting them via actors and actresses who appeared together
@@ -49,6 +48,7 @@
 - [Wordle](https://www.nytimes.com/games/wordle) - Guess the word with hints based on correct letters
 
 ## 🌍 World
+- [City Guesser](https://virtualvacation.us/guess) - Guess the city based on footage from a street view video
 - [Globle](https://globle-game.com) - Guess the country on a globe with hints based on proximity (hot or cold)
 - [TimeGuessr](https://timeguessr.com) (♾️) - Guess the time and location pictures are taken in
 - [Tradle](https://oec.world/en/tradle) - Guess the country based on their trade exports
@@ -64,7 +64,6 @@
 - [Daily Dozen Trivia](https://dailydozentrivia.com) - Answer trivia about 9 different topics
 - [FoodGuessr](https://www.foodguessr.com) (♾️) - Guess the country a dish is from based on its ingredients and description
 - [Hertl](https://www.hertl.app) - Guess the NHL player based on clues
-- [Plurality](https://www.plurality.fun) - Guess top answers to survey questions given to a collection of users
 - [Trivia Daily Dose](www.sporcle.com#daily-dose-section) by Sporcle (♾️) - A variety of Sporcle quizzes in random topics
 	- [Archive of previous daily quizzes](https://www.sporcle.com/games/tags/dailydose)
 - [Wikipedia Speedrun](https://wikispeedruns.com) (♾️) - Get from a starting article to an end article just through Wikipedia links
