@@ -1,7 +1,7 @@
 # Web-based games like Wordle, daily crosswords, etc.
 
 ### 🔑 Key (indicating included functionality)
-- 🧑‍🤝‍🧑= Multiplayer
+- 🤝 = Multiplayer
 - 🔀 = Not daily (replayable)
 - ♾️ = Unlimited (or archived) rounds
 
@@ -10,7 +10,7 @@
 - [Gamedle](https://www.gamedle.wtf) (♾️) - Guess the game based on cover, artwork, or specifications
 - [Guess The Game](https://guessthe.game) - Guess the game based on gameplay images
 - [LoLdle](https://loldle.net) - Guess League of Legends champions based on a variety of criteria
-- [Lostgamer](https://lostgamer.io) - Guess your location in video game maps from a first-person street view (like Geoguessr)
+- [Lostgamer](https://lostgamer.io) (🔀) - Guess your location in video game maps from a first-person street view (like Geoguessr)
 - [PokeDoku](https://pokedoku.com) - Guess a grid of Pokémon who match certain criteria
 - [Pokédle](https://pokedle.net) - Guess Pokémon based on a variety of criteria (like LoLdle!)
 - [Pokémon Cries](https://pokemoncries.com) - Guess the Pokémon based on its cry via multiple choice
@@ -40,9 +40,9 @@
 ## 🔠 Word
 - [Absurdle](https://qntm.org/files/absurdle/absurdle.html) (🔀) - Wordle, but the word changes after each guess (except for the letters you've determined)
 - [Connections](https://www.nytimes.com/games/connections) - Guess how a variety of words group into four different categories
-- [Down for a Cross](https://downforacross.com) (🧑‍🤝‍🧑,♾️) - Daily crosswords from various sites playable for free
+- [Down for a Cross](https://downforacross.com) (🤝,♾️) - Daily crosswords from various sites playable for free
 - [Quordle](https://www.merriam-webster.com/games/quordle) by Merriam-Webster - Guess four words at a time based on correct letters
-- [Semantle](https://semantle.com) (🧑‍🤝‍🧑) - Guess the word with hints based on closeness of meaning to the actual word
+- [Semantle](https://semantle.com) (🤝) - Guess the word with hints based on closeness of meaning to the actual word
 - [Spellcheck](https://spellcheckgame.com) - Like a spelling bee, try to spell a series of words based on their pronunciation
 - [Waffle](https://wafflegame.net) - Wordle but in a waffle-shaped grid of six words
 - [Wordle](https://www.nytimes.com/games/wordle) - Guess the word with hints based on correct letters
@@ -67,7 +67,36 @@
 - [Trivia Daily Dose](www.sporcle.com#daily-dose-section) by Sporcle (♾️) - A variety of Sporcle quizzes in random topics
 	- [Archive of previous daily quizzes](https://www.sporcle.com/games/tags/dailydose)
 - [Wikipedia Speedrun](https://wikispeedruns.com) (♾️) - Get from a starting article to an end article just through Wikipedia links
-	- (🧑‍🤝‍🧑) Playable in a private lobby if you create an account
+	- (🤝) Playable in a private lobby if you create an account
 
+
+---
+## Curations
+### 🎉 The Classics
+1. [Connections](https://www.nytimes.com/games/connections)
+2. [The Mini Crossword](https://www.nytimes.com/crosswords/game/mini)
+3. [Strands](https://www.nytimes.com/games/strands)
+4. [Wordle](https://www.nytimes.com/games/wordle)
+5. [FoodGuessr](https://www.foodguessr.com)
+6. [TimeGuessr](https://timeguessr.com)
+7. [Costcodle](https://costcodle.com)
+8. [Bandle](https://bandle.app)
+9. [Housle](https://housle.house)
+10. [Guess The Game](https://guessthe.game)
+
+### 🎮 Game Night Gauntlet
+1. [Gamedle](https://www.gamedle.wtf)
+2. [Guess The Game](https://guessthe.game)
+3. [PokeDoku](https://pokedoku.com)
+4. [Smashdle](https://smashdle.net)
+5. [LoLdle](https://loldle.net)
+
+### 🧠 Brain Destroyers
+1. [Connections](https://www.nytimes.com/games/connections)
+2. [Spellcheck](https://spellcheckgame.com)
+3. [Quordle](https://www.merriam-webster.com/games/quordle)
+4. [Daily chess puzzle](https://www.chess.com/daily-chess-puzzle)
+5. [Semantle](https://semantle.com)
+   
 ---
 *Inspired by [Northernlion's content](https://youtu.be/JA9o6c7k62Y)!*
