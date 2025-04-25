@@ -30,8 +30,10 @@
 
 ## 🎵 Music
 - [Bandle](https://bandle.app) - Guess the song based on a series of revealed instrument melodies
+- [Harmonies](https://harmonies.io) - Connections, but categories are music, song, and artist related
 - [Musicle](https://musicle.app) - Guess songs based off of music snippets
 - [PopIdle](https://popidle.the-sound.co.uk/) - Guess the album based on pixels from its album cover
+- [Spotle](https://spotle.io/) - Guess the music artist based off of hints about them
 
 ## 🏠 Real Estate
 - [Housle](https://housle.house) - Guess the asking price of a house based on pictures and clues
@@ -41,6 +43,7 @@
 - [Absurdle](https://qntm.org/files/absurdle/absurdle.html) (🔀) - Wordle, but the word changes after each guess (except for the letters you've determined)
 - [Connections](https://www.nytimes.com/games/connections) - Guess how a variety of words group into four different categories
 - [Down for a Cross](https://downforacross.com) (🤝,♾️) - Daily crosswords from various sites playable for free
+- [Minute Cryptic](https://www.minutecryptic.com) - Solve the word riddle by looking for hidden meanings in words
 - [Quordle](https://www.merriam-webster.com/games/quordle) by Merriam-Webster - Guess four words at a time based on correct letters
 - [Semantle](https://semantle.com) (🤝) - Guess the word with hints based on closeness of meaning to the actual word
 - [Spellcheck](https://spellcheckgame.com) - Like a spelling bee, try to spell a series of words based on their pronunciation
@@ -50,6 +53,7 @@
 ## 🌍 World
 - [City Guesser](https://virtualvacation.us/guess) - Guess the city based on footage from a street view video
 - [Globle](https://globle-game.com) - Guess the country on a globe with hints based on proximity (hot or cold)
+- [Juxtastat](https://urbanstats.org/quiz.html) - Choose between two locations for meeting a specific urban statistic
 - [TimeGuessr](https://timeguessr.com) (♾️) - Guess the time and location pictures are taken in
 - [Tradle](https://oec.world/en/tradle) - Guess the country based on their trade exports
 - [Travle](https://imois.in/games/travle) - Guess countries to make a connected land path between two given countries
@@ -62,8 +66,12 @@
 - [Daily chess puzzle](https://www.chess.com/daily-chess-puzzle) by Chess.com - Find the best moves in a daily chess position
 	- (♾️) Playable up to a week in the past (unlimited with subscription)
 - [Daily Dozen Trivia](https://dailydozentrivia.com) - Answer trivia about 9 different topics
+- [Disorderly](https://playdisorderly.com) - Sort random items from a specific category
 - [FoodGuessr](https://www.foodguessr.com) (♾️) - Guess the country a dish is from based on its ingredients and description
 - [Hertl](https://www.hertl.app) - Guess the NHL player based on clues
+- [Murdle](https://murdle.com) - Solve mystery logic puzzles
+- [Talldle](https://www.talldle.com) - Sort your favorite celebrities by height every day
+- [Thrice](https://thrice.geekswhodrink.com) - Solve five quiz questions from different categories with three or less hints
 - [Trivia Daily Dose](www.sporcle.com#daily-dose-section) by Sporcle (♾️) - A variety of Sporcle quizzes in random topics
 	- [Archive of previous daily quizzes](https://www.sporcle.com/games/tags/dailydose)
 - [Wikipedia Speedrun](https://wikispeedruns.com) (♾️) - Get from a starting article to an end article just through Wikipedia links
