@@ -35,6 +35,11 @@
 - [PopIdle](https://popidle.the-sound.co.uk/) - Guess the album based on pixels from its album cover
 - [Spotle](https://spotle.io/) - Guess the music artist based off of hints about them
 
+## 🧑 People
+- [Chronogram](https://chronogram.chat) - Guess who the historical figure is by discussing with their reconstructed AI models
+- [Hertl](https://www.hertl.app) - Guess the NHL player based on clues
+- [Talldle](https://www.talldle.com) - Sort your favorite celebrities by height every day
+
 ## 🏠 Real Estate
 - [Housle](https://housle.house) - Guess the asking price of a house based on pictures and clues
 - [Listed](https://listed.fun) - Guess the sale price of a property based on pictures and clues
@@ -60,7 +65,6 @@
 - [Worldle](https://worldle.teuteuf.fr) - Guess the country based on shape
 
 ## 🥙 Miscellaneous
-- [Chronogram](https://chronogram.chat) - Guess who the historical figure is by discussing with their reconstructed AI models
 - [Chronophoto](https://www.chronophoto.app) (♾️) - Guess the year pictures are taken in
 - [Costcodle](https://costcodle.com) - Guess the approximate price of a random Costco item
 - [Daily chess puzzle](https://www.chess.com/daily-chess-puzzle) by Chess.com - Find the best moves in a daily chess position
@@ -68,9 +72,7 @@
 - [Daily Dozen Trivia](https://dailydozentrivia.com) - Answer trivia about 9 different topics
 - [Disorderly](https://playdisorderly.com) - Sort random items from a specific category
 - [FoodGuessr](https://www.foodguessr.com) (♾️) - Guess the country a dish is from based on its ingredients and description
-- [Hertl](https://www.hertl.app) - Guess the NHL player based on clues
 - [Murdle](https://murdle.com) - Solve mystery logic puzzles
-- [Talldle](https://www.talldle.com) - Sort your favorite celebrities by height every day
 - [Thrice](https://thrice.geekswhodrink.com) - Solve five quiz questions from different categories with three or less hints
 - [Trivia Daily Dose](www.sporcle.com#daily-dose-section) by Sporcle (♾️) - A variety of Sporcle quizzes in random topics
 	- [Archive of previous daily quizzes](https://www.sporcle.com/games/tags/dailydose)
