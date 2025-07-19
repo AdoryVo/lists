@@ -9,6 +9,7 @@
 ## 🕹️ Gaming
 - [Gamedle](https://www.gamedle.wtf) (♾️) - Guess the game based on cover, artwork, or specifications
 - [Guess The Game](https://guessthe.game) - Guess the game based on gameplay images
+- [Kinda Hard Golf](https://kindahardgolf.com) - Play daily solo golf levels
 - [LoLdle](https://loldle.net) - Guess League of Legends champions based on a variety of criteria
 - [Lostgamer](https://lostgamer.io) (🔀) - Guess your location in video game maps from a first-person street view (like Geoguessr)
 - [PokeDoku](https://pokedoku.com) - Guess a grid of Pokémon who match certain criteria
