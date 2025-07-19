@@ -51,6 +51,7 @@
 
 ## 🔠 Word
 - [Absurdle](https://qntm.org/files/absurdle/absurdle.html) (🔀) - Wordle, but the word changes after each guess (except for the letters you've determined)
+- [Betweenle](https://betweenle.com) - Guess the word by guessing what dictionary words are near it
 - [Connections](https://www.nytimes.com/games/connections) - Guess how a variety of words group into four different categories
 - [Down for a Cross](https://downforacross.com) (🤝,♾️) - Daily crosswords from various sites playable for free
 - [Minute Cryptic](https://www.minutecryptic.com) - Solve the word riddle by looking for hidden meanings in words
