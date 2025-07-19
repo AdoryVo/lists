@@ -5,6 +5,10 @@
 - 🔀 = Not daily (replayable)
 - ♾️ = Unlimited (or archived) rounds
 
+## Food
+- [Costcodle](https://costcodle.com) - Guess the approximate price of a random Costco item
+- [FoodGuessr](https://www.foodguessr.com) (♾️) - Guess the country a dish is from based on its ingredients and description
+- [Scrandle](https://scrandle.com/) - Guess which scran (cheap food) users liked more
 
 ## 🕹️ Gaming
 - [Gamedle](https://www.gamedle.wtf) (♾️) - Guess the game based on cover, artwork, or specifications
@@ -66,13 +70,12 @@
 - [Worldle](https://worldle.teuteuf.fr) - Guess the country based on shape
 
 ## 🥙 Miscellaneous
+- [catfishing](https://catfishing.net/game/today) - Guess the Wikipedia article from its categories
 - [Chronophoto](https://www.chronophoto.app) (♾️) - Guess the year pictures are taken in
-- [Costcodle](https://costcodle.com) - Guess the approximate price of a random Costco item
 - [Daily chess puzzle](https://www.chess.com/daily-chess-puzzle) by Chess.com - Find the best moves in a daily chess position
 	- (♾️) Playable up to a week in the past (unlimited with subscription)
 - [Daily Dozen Trivia](https://dailydozentrivia.com) - Answer trivia about 9 different topics
 - [Disorderly](https://playdisorderly.com) - Sort random items from a specific category
-- [FoodGuessr](https://www.foodguessr.com) (♾️) - Guess the country a dish is from based on its ingredients and description
 - [Murdle](https://murdle.com) - Solve mystery logic puzzles
 - [Thrice](https://thrice.geekswhodrink.com) - Solve five quiz questions from different categories with three or less hints
 - [Trivia Daily Dose](www.sporcle.com#daily-dose-section) by Sporcle (♾️) - A variety of Sporcle quizzes in random topics
