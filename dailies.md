@@ -45,6 +45,12 @@
 - [Hertl](https://www.hertl.app) - Guess the NHL player based on clues
 - [Talldle](https://www.talldle.com) - Sort your favorite celebrities by height every day
 
+## 🧩 Puzzle
+- [Clues By Sam](https://cluesbysam.com) - Use clues to solve a logic puzzle grid
+- [Daily chess puzzle](https://www.chess.com/daily-chess-puzzle) by Chess.com - Find the best moves in a daily chess position
+	- (♾️) Playable up to a week in the past (unlimited with subscription)
+- [Murdle](https://murdle.com) - Solve mystery logic puzzles
+
 ## 🏠 Real Estate
 - [Housle](https://housle.house) - Guess the asking price of a house based on pictures and clues
 - [Listed](https://listed.fun) - Guess the sale price of a property based on pictures and clues
@@ -74,11 +80,8 @@
 ## 🥙 Miscellaneous
 - [catfishing](https://catfishing.net/game/today) - Guess the Wikipedia article from its categories
 - [Chronophoto](https://www.chronophoto.app) (♾️) - Guess the year pictures are taken in
-- [Daily chess puzzle](https://www.chess.com/daily-chess-puzzle) by Chess.com - Find the best moves in a daily chess position
-	- (♾️) Playable up to a week in the past (unlimited with subscription)
 - [Daily Dozen Trivia](https://dailydozentrivia.com) - Answer trivia about 9 different topics
 - [Disorderly](https://playdisorderly.com) - Sort random items from a specific category
-- [Murdle](https://murdle.com) - Solve mystery logic puzzles
 - [Thrice](https://thrice.geekswhodrink.com) - Solve five quiz questions from different categories with three or less hints
 - [Trivia Daily Dose](www.sporcle.com#daily-dose-section) by Sporcle (♾️) - A variety of Sporcle quizzes in random topics
 	- [Archive of previous daily quizzes](https://www.sporcle.com/games/tags/dailydose)
