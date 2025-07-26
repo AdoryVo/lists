@@ -79,6 +79,7 @@
 - [Worldle](https://worldle.teuteuf.fr) - Guess the country based on shape
 
 ## 🥙 Miscellaneous
+- [Angle](https://angle.wtf) - Guess the pictured geometric angle by eye
 - [catfishing](https://catfishing.net/game/today) - Guess the Wikipedia article from its categories
 - [Chronophoto](https://www.chronophoto.app) (♾️) - Guess the year pictures are taken in
 - [Daily Dozen Trivia](https://dailydozentrivia.com) - Answer trivia about 9 different topics
