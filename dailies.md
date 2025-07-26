@@ -47,6 +47,7 @@
 
 ## 🧩 Puzzle
 - [Clues By Sam](https://cluesbysam.com) - Use clues to solve a logic puzzle grid
+- 	- (♾️) Edit the link https://cluesbysam.com/help/YYYY-MM-DD with the date you want to play, earliest is 2025-04-25.
 - [Daily chess puzzle](https://www.chess.com/daily-chess-puzzle) by Chess.com - Find the best moves in a daily chess position
 	- (♾️) Playable up to a week in the past (unlimited with subscription)
 - [Murdle](https://murdle.com) - Solve mystery logic puzzles
