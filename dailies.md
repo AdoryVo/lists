@@ -51,6 +51,7 @@
 - 	- (♾️) Edit the link https://cluesbysam.com/help/YYYY-MM-DD with the date you want to play, earliest is 2025-04-25.
 - [Daily chess puzzle](https://www.chess.com/daily-chess-puzzle) by Chess.com - Find the best moves in a daily chess position
 	- (♾️) Playable up to a week in the past (unlimited with subscription)
+- [Daily Gogen](https://www.dailygogen.com) (⭐) - Solve logic puzzles by placing letters from a pool onto a grid to form the daily list of words from adjacent letters.
 - [Murdle](https://murdle.com) - Solve mystery logic puzzles
 
 ## 🏠 Real Estate
@@ -61,7 +62,6 @@
 - [Absurdle](https://qntm.org/files/absurdle/absurdle.html) (🔀) - Wordle, but the word changes after each guess (except for the letters you've determined)
 - [Betweenle](https://betweenle.com) - Guess the word by guessing what dictionary words are near it
 - [Connections](https://www.nytimes.com/games/connections) - Guess how a variety of words group into four different categories
-- [Daily Gogen](https://www.dailygogen.com) (⭐) - Solve logic puzzles by placing letters from a pool onto a grid to form the daily list of words from adjacent letters.
 - [Down for a Cross](https://downforacross.com) (🤝,♾️) - Daily crosswords from various sites playable for free
 - [Minute Cryptic](https://www.minutecryptic.com) - Solve the word riddle by looking for hidden meanings in words
 - [Quordle](https://www.merriam-webster.com/games/quordle) by Merriam-Webster - Guess four words at a time based on correct letters
@@ -70,7 +70,7 @@
 - [Spellcheck](https://spellcheckgame.com) - Like a spelling bee, try to spell a series of words based on their pronunciation
 - [Waffle](https://wafflegame.net) - Wordle but in a waffle-shaped grid of six words
 - [Wordle](https://www.nytimes.com/games/wordle) - Guess the word with hints based on correct letters
-- [YouTakeTwo](https://www.youtaketwo.com) (⭐) - Place the day's letters onto a grid to make a valid Scrabble-like crossword. Try the challenging number mode to form a valid arithmetic math expression!
+- [YouTakeTwo](https://www.youtaketwo.com) (⭐) - Place the day's letters onto a grid to make a valid Scrabble-like crossword. Try the challenging number mode to form valid arithmetic math expressions!
 
 ## 🌍 World
 - [City Guesser](https://virtualvacation.us/guess) - Guess the city based on footage from a street view video
