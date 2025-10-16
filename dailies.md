@@ -1,12 +1,14 @@
 # Web-based games like Wordle, daily crosswords, etc.
 
+Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email business@adoryvo.com to suggest an addition!
+
 ### 🔑 Key (indicating included functionality)
 - 🤝 = Multiplayer
 - 🔀 = Not daily (replayable)
 - ♾️ = Unlimited (or archived) rounds
 - ⭐ = Awesome additions that are well made!
 
-## Food
+## 🥙 Food
 - [Costcodle](https://costcodle.com) - Guess the approximate price of a random Costco item
 - [FoodGuessr](https://www.foodguessr.com) (♾️) - Guess the country a dish is from based on its ingredients and description
 - [Scrandle](https://scrandle.com/) - Guess which scran (cheap food) users liked more
