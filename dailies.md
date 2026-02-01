@@ -55,6 +55,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 	- (♾️) Playable up to a week in the past (unlimited with subscription)
 - [Daily Gogen](https://www.dailygogen.com) (⭐) - Solve logic puzzles by placing letters from a pool onto a grid to form the daily list of words from adjacent letters
 - [Murdle](https://murdle.com) - Solve mystery logic puzzles
+- 🆕 [Spectra](https://spectra.quest) (⭐) - Sort items from high to low by deducing the hidden metric from feedback provided after each submission.
 
 ## 🏠 Real Estate
 - [Housle](https://housle.house) - Guess the asking price of a house based on pictures and clues
