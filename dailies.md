@@ -10,6 +10,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 
 ## 🥙 Food
 - [Costcodle](https://costcodle.com) - Guess the approximate price of a random Costco item
+- 🆕 [Daily Rinds](https://dailyrinds.com) (⭐) - Guess the daily mystery cheese with clues based on cheese properties (country, milk, texture, color, etc.)
 - [FoodGuessr](https://www.foodguessr.com) (♾️) - Guess the country a dish is from based on its ingredients and description
 - [Scrandle](https://scrandle.com/) - Guess which scran (cheap food) users liked more
 
