@@ -15,6 +15,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - [Scrandle](https://scrandle.com/) - Guess which scran (cheap food) users liked more
 
 ## 🕹️ Gaming
+- [Black Mythdle](https://blackmythdle.com) - Guess the _Black Myth: Wukong_ boss based on map, difficulty, weaknesses, etc.
 - [Gamedle](https://www.gamedle.wtf) (♾️) - Guess the game based on cover, artwork, or specifications
 - [Guess The Game](https://guessthe.game) - Guess the game based on gameplay images
 - [Kinda Hard Golf](https://kindahardgolf.com) - Play daily solo golf levels
