@@ -10,12 +10,12 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 
 ## 🥙 Food
 - [Costcodle](https://costcodle.com) - Guess the approximate price of a random Costco item
-- 🆕 [Daily Rinds](https://dailyrinds.com) (⭐) - Guess the daily mystery cheese with clues based on cheese properties (country, milk, texture, color, etc.)
+- [Daily Rinds](https://dailyrinds.com) (⭐) - Guess the daily mystery cheese with clues based on cheese properties (country, milk, texture, color, etc.)
 - [FoodGuessr](https://www.foodguessr.com) (♾️) - Guess the country a dish is from based on its ingredients and description
 - [Scrandle](https://scrandle.com/) - Guess which scran (cheap food) users liked more
 
 ## 🕹️ Gaming
-- [Black Mythdle](https://blackmythdle.com) - Guess the _Black Myth: Wukong_ boss based on map, difficulty, weaknesses, etc.
+- 🆕 [Black Mythdle](https://blackmythdle.com) - Guess the _Black Myth: Wukong_ boss based on map, difficulty, weaknesses, etc.
 - [Gamedle](https://www.gamedle.wtf) (♾️) - Guess the game based on cover, artwork, or specifications
 - [Guess The Game](https://guessthe.game) - Guess the game based on gameplay images
 - [Kinda Hard Golf](https://kindahardgolf.com) - Play daily solo golf levels
@@ -57,7 +57,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 	- (♾️) Playable up to a week in the past (unlimited with subscription)
 - [Daily Gogen](https://www.dailygogen.com) (⭐) - Solve logic puzzles by placing letters from a pool onto a grid to form the daily list of words from adjacent letters
 - [Murdle](https://murdle.com) - Solve mystery logic puzzles
-- 🆕 [Spectra](https://spectra.quest) (⭐) - Sort items from high to low by deducing the hidden metric from feedback provided after each submission.
+- [Spectra](https://spectra.quest) (⭐) - Sort items from high to low by deducing the hidden metric from feedback provided after each submission.
 
 ## 🏠 Real Estate
 - [Housle](https://housle.house) - Guess the asking price of a house based on pictures and clues
@@ -80,12 +80,13 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 
 ## 🌍 World
 - [City Guesser](https://virtualvacation.us/guess) - Guess the city based on footage from a street view video
-- [Chartle](https://chartle.cc) (⭐) - Guess the country based on the mystery country's chart trajectory compared to other countries.
+- 🆕 [Chartle](https://chartle.cc) (⭐) - Guess the country based on the mystery country's chart trajectory compared to other countries.
 - [Globle](https://globle-game.com) - Guess the country on a globe with hints based on proximity (hot or cold)
 - [Juxtastat](https://urbanstats.org/quiz.html) - Choose between two locations for meeting a specific urban statistic
 - [TimeGuessr](https://timeguessr.com) (♾️) - Guess the time and location pictures are taken in
 - [Tradle](https://oec.world/en/tradle) - Guess the country based on their trade exports
 - [Travle](https://imois.in/games/travle) - Guess countries to make a connected land path between two given countries
+- 🆕 [TuneGuessr](https://www.tuneguessr.net) (⭐) - Guess the country based on a song with progressive hints (compass, distance, genre/instrument reveals)
 - [Worldle](https://worldle.teuteuf.fr) - Guess the country based on shape
 
 ## 🥙 Miscellaneous
