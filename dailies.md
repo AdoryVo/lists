@@ -88,6 +88,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - [Tradle](https://oec.world/en/tradle) - Guess the country based on their trade exports
 - [Travle](https://imois.in/games/travle) - Guess countries to make a connected land path between two given countries
 - 🆕 [TuneGuessr](https://www.tuneguessr.net) (⭐) - Guess the country based on a song with progressive hints (compass, distance, genre/instrument reveals)
+- 🆕 [World Clue](https://worldclue.com) (⭐) - Guess the country or region based on hints regarding topics such as geography, culture, demographics, economy, politics and more
 - [Worldle](https://worldle.teuteuf.fr) - Guess the country based on shape
 
 ## 🥙 Miscellaneous
