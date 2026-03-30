@@ -71,6 +71,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - 🆕 [Matter](https://thelemma.co/matter) (⭐) - Form nouns from a daily pool of 50 letters that would physically overpower the 3 daily target nouns
 - [Minute Cryptic](https://www.minutecryptic.com) - Solve the word riddle by looking for hidden meanings in words
 - [Pixletters](https://pixletters.com) - Guess the word by the matching letter pixels in your guesses
+- 🆕 [Quartiles](https://quartileswordgame.com) - Combine letter segments to make as many words as possible
 - [Quordle](https://www.merriam-webster.com/games/quordle) by Merriam-Webster - Guess four words at a time based on correct letters
 - [RINARIN](https://www.rinarin.app) - Find four hidden words in a letter grid given the provided letter pool
 - [Semantle](https://semantle.com) (🤝) - Guess the word with hints based on closeness of meaning to the actual word
