@@ -80,6 +80,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 
 ## 🌍 World
 - [City Guesser](https://virtualvacation.us/guess) - Guess the city based on footage from a street view video
+- [Chartle](https://chartle.cc) (⭐) - Guess the country based on the mystery country's chart trajectory compared to other countries.
 - [Globle](https://globle-game.com) - Guess the country on a globe with hints based on proximity (hot or cold)
 - [Juxtastat](https://urbanstats.org/quiz.html) - Choose between two locations for meeting a specific urban statistic
 - [TimeGuessr](https://timeguessr.com) (♾️) - Guess the time and location pictures are taken in
