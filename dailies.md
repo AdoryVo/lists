@@ -97,6 +97,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 
 ## 🥙 Miscellaneous
 - [Angle](https://angle.wtf) - Guess the pictured geometric angle by eye
+- 🆕 [Beat Darwin](https://beatdarwin.com) (⭐) - Guess the animal species based on a picture and biodiversity hints
 - [catfishing](https://catfishing.net/game/today) - Guess the Wikipedia article from its categories
 - [Chronophoto](https://www.chronophoto.app) (♾️) - Guess the year pictures are taken in
 - [Daily Dozen Trivia](https://dailydozentrivia.com) - Answer trivia about 9 different topics
