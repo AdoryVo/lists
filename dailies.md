@@ -57,6 +57,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - [Daily chess puzzle](https://www.chess.com/daily-chess-puzzle) by Chess.com - Find the best moves in a daily chess position
 	- (♾️) Playable up to a week in the past (unlimited with subscription)
 - [Daily Gogen](https://www.dailygogen.com) (⭐) - Solve logic puzzles by placing letters from a pool onto a grid to form the daily list of words from adjacent letters
+- 🆕 [DailyJig](https://dailyjig.com) - Solve the daily jigsaw puzzle and see your stats after you finish
 - [Murdle](https://murdle.com) - Solve mystery logic puzzles
 - [Spectra](https://spectra.quest) (⭐) - Sort items from high to low by deducing the hidden metric from feedback provided after each submission.
 
