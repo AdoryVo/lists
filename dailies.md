@@ -47,6 +47,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 
 ## 🧑 People
 - [Chronogram](https://chronogram.chat) - Guess who the historical figure is by discussing with their reconstructed AI models
+- 🆕 [FaceGrid](https://facegrid.app) - Guess the character by revealing cells of a grid concealing their face
 - [Hertl](https://www.hertl.app) - Guess the NHL player based on clues
 - [Talldle](https://www.talldle.com) - Sort your favorite celebrities by height every day
 
