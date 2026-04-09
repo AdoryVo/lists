@@ -1,6 +1,7 @@
 # Web-based games like Wordle, daily crosswords, etc.
 
-Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email business@adoryvo.com to suggest an addition!
+Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email business@adoryvo.com to suggest an addition!  
+😊 Many thanks to all the creators who have submitted their amazing sites recently in this past year (as of April 2026)!
 
 ### 🔑 Key (indicating included functionality)
 - 🤝 = Multiplayer
