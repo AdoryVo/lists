@@ -67,6 +67,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - [Listed](https://listed.fun) - Guess the sale price of a property based on pictures and clues
 
 ## 🔠 Word
+- 🆕 [8mal5](https://www.8mal5.de) - Wordle auf Deutsch: German Wordle with some extras like umlauts and longer words, daily and unlimited mode
 - [Absurdle](https://qntm.org/files/absurdle/absurdle.html) (🔀) - Wordle, but the word changes after each guess (except for the letters you've determined)
 - [Betweenle](https://betweenle.com) - Guess the word by guessing what dictionary words are near it
 - [Connections](https://www.nytimes.com/games/connections) - Guess how a variety of words group into four different categories
