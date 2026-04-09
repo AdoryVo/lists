@@ -81,6 +81,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - [RINARIN](https://www.rinarin.app) - Find four hidden words in a letter grid given the provided letter pool
 - [Semantle](https://semantle.com) (🤝) - Guess the word with hints based on closeness of meaning to the actual word
 - [Spellcheck](https://spellcheckgame.com) - Like a spelling bee, try to spell a series of words based on their pronunciation
+- 🆕 [Tilbo](https://tilbo.fun) (⭐) - Solve the Wordle x Tetris board by entering words to match with existing words' letters
 - [Waffle](https://wafflegame.net) - Wordle but in a waffle-shaped grid of six words
 - [Wordle](https://www.nytimes.com/games/wordle) - Guess the word with hints based on correct letters
 - [YouTakeTwo](https://www.youtaketwo.com) (⭐) - Place the day's letters onto a grid to make a valid Scrabble-like crossword. Try the challenging number mode to form valid arithmetic math expressions!
@@ -129,7 +130,8 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 1. [ClueTube](https://thecluetube.com)
 2. [Matter](https://thelemma.co/matter)
 3. [catfishing](https://catfishing.net/game/today)
-4. WIP - still considering my favorite candidates!
+4. [Tilbo](https://tilbo.fun)
+5. WIP - still considering my favorite candidates!
 
 ### 🎮 Game Night Gauntlet
 1. [Gamedle](https://www.gamedle.wtf)
