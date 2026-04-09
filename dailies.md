@@ -101,6 +101,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - 🆕 [Beat Darwin](https://beatdarwin.com) (⭐) - Guess the animal species based on a picture and biodiversity hints
 - [catfishing](https://catfishing.net/game/today) - Guess the Wikipedia article from its categories
 - [Chronophoto](https://www.chronophoto.app) (♾️) - Guess the year pictures are taken in
+- 🆕 [ClueTube](https://thecluetube.com) (⭐) - Guess the YouTube video based on its comments
 - [Daily Dozen Trivia](https://dailydozentrivia.com) - Answer trivia about 9 different topics
 - [Disorderly](https://playdisorderly.com) - Sort random items from a specific category
 - [Thrice](https://thrice.geekswhodrink.com) - Solve five quiz questions from different categories with three or less hints
@@ -122,6 +123,12 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 8. [Bandle](https://bandle.app)
 9. [Housle](https://housle.house)
 10. [Guess The Game](https://guessthe.game)
+
+### 🧑‍🎨 Strikingly Creative
+1. [ClueTube](https://thecluetube.com)
+2. [Matter](https://thelemma.co/matter)
+3. [catfishing](https://catfishing.net/game/today)
+4. WIP - still considering my favorite candidates!
 
 ### 🎮 Game Night Gauntlet
 1. [Gamedle](https://www.gamedle.wtf)
