@@ -70,6 +70,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - [Betweenle](https://betweenle.com) - Guess the word by guessing what dictionary words are near it
 - [Connections](https://www.nytimes.com/games/connections) - Guess how a variety of words group into four different categories
 - [Down for a Cross](https://downforacross.com) (🤝,♾️) - Daily crosswords from various sites playable for free
+- 🆕 [Hunch](https://hunch.game) (⭐) - Guess the series of words based on hints about correct letters and positions. Like Wordle meets Mastermind!
 - 🆕 [Matter](https://thelemma.co/matter) (⭐) - Form nouns from a daily pool of 50 letters that would physically overpower the 3 daily target nouns
 - [Minute Cryptic](https://www.minutecryptic.com) - Solve the word riddle by looking for hidden meanings in words
 - [Pixletters](https://pixletters.com) - Guess the word by the matching letter pixels in your guesses
