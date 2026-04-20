@@ -117,6 +117,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - 🆕 [Brandle](https://www.capitalle.app/brandle) (⭐) - Guess the brand from a blurred logo (popular game from Capitalle!)
 - [Chronophoto](https://www.chronophoto.app) (♾️) - Guess the year pictures are taken in
 - 🆕 [ClueTube](https://thecluetube.com) (⭐) - Guess the YouTube video based on its comments
+- 🆕 [Sportiz](https://playsportiz.com) - Across different sports, guess the mystery athlete based on facts about them and their career
 
 ---
 ## Curations
