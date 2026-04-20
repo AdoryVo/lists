@@ -44,6 +44,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - [Harmonies](https://harmonies.io) - Connections, but categories are music, song, and artist related
 - [Musicle](https://musicle.app) - Guess songs based off of music snippets
 - [PopIdle](https://popidle.the-sound.co.uk/) - Guess the album based on pixels from its album cover
+- 🆕 [Sportiz](https://playsportiz.com) - Across different sports, guess the mystery athlete based on facts about them and their career
 - [Spotle](https://spotle.io/) - Guess the music artist based off of hints about them
 
 ## 🧑 People
@@ -117,7 +118,6 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - 🆕 [Brandle](https://www.capitalle.app/brandle) (⭐) - Guess the brand from a blurred logo (popular game from Capitalle!)
 - [Chronophoto](https://www.chronophoto.app) (♾️) - Guess the year pictures are taken in
 - 🆕 [ClueTube](https://thecluetube.com) (⭐) - Guess the YouTube video based on its comments
-- 🆕 [Sportiz](https://playsportiz.com) - Across different sports, guess the mystery athlete based on facts about them and their career
 
 ---
 ## Curations
