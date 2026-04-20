@@ -71,6 +71,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 ## ❓ Trivia & General Knowledge 🆕
 - [catfishing](https://catfishing.net/game/today) - Guess the Wikipedia article from its categories
 - [Daily Dozen Trivia](https://dailydozentrivia.com) - Answer trivia about 9 different topics
+- 🆕 [Daily Orbs](https://dailyorbs.com) (⭐) - Complete your choice of handcrafted daily trivia puzzles to get enough points to win for the day!
 - [Disorderly](https://playdisorderly.com) - Sort random items from a specific category
 - 🆕 [Earlier](https://playearlier.com) - For three questions, guess which of two events occurred earlier
 - [Thrice](https://thrice.geekswhodrink.com) - Solve five quiz questions from different categories with three or less hints
