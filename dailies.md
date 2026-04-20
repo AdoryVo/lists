@@ -7,7 +7,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - 🤝 = Multiplayer
 - 🔀 = Not daily (replayable)
 - ♾️ = Unlimited (or archived) rounds
-- ⭐ = Awesome additions that are well made!
+- ⭐ = Awesome additions that are well made and stand out to me!
 
 ## 🥙 Food
 - [Costcodle](https://costcodle.com) - Guess the approximate price of a random Costco item
@@ -67,6 +67,17 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - [Housle](https://housle.house) - Guess the asking price of a house based on pictures and clues
 - [Listed](https://listed.fun) - Guess the sale price of a property based on pictures and clues
 
+## ❓ Trivia & General Knowledge 🆕
+- [catfishing](https://catfishing.net/game/today) - Guess the Wikipedia article from its categories
+- [Daily Dozen Trivia](https://dailydozentrivia.com) - Answer trivia about 9 different topics
+- [Disorderly](https://playdisorderly.com) - Sort random items from a specific category
+- 🆕 [Earlier](https://playearlier.com) - For three questions, guess which of two events occurred earlier
+- [Thrice](https://thrice.geekswhodrink.com) - Solve five quiz questions from different categories with three or less hints
+- [Trivia Daily Dose](www.sporcle.com#daily-dose-section) by Sporcle (♾️) - A variety of Sporcle quizzes in random topics
+	- [Archive of previous daily quizzes](https://www.sporcle.com/games/tags/dailydose)
+- [Wikipedia Speedrun](https://wikispeedruns.com) (♾️) - Get from a starting article to an end article just through Wikipedia links
+	- (🤝) Playable in a private lobby if you create an account
+
 ## 🔠 Word
 - 🆕 [8mal5](https://www.8mal5.de) - Wordle auf Deutsch: German Wordle with some extras like umlauts and longer words, daily and unlimited mode
 - [Absurdle](https://qntm.org/files/absurdle/absurdle.html) (🔀) - Wordle, but the word changes after each guess (except for the letters you've determined)
@@ -104,16 +115,8 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - [Angle](https://angle.wtf) - Guess the pictured geometric angle by eye
 - 🆕 [Beat Darwin](https://beatdarwin.com) (⭐) - Guess the animal species based on a picture and biodiversity hints
 - 🆕 [Brandle](https://www.capitalle.app/brandle) (⭐) - Guess the brand from a blurred logo (popular game from Capitalle!)
-- [catfishing](https://catfishing.net/game/today) - Guess the Wikipedia article from its categories
 - [Chronophoto](https://www.chronophoto.app) (♾️) - Guess the year pictures are taken in
 - 🆕 [ClueTube](https://thecluetube.com) (⭐) - Guess the YouTube video based on its comments
-- [Daily Dozen Trivia](https://dailydozentrivia.com) - Answer trivia about 9 different topics
-- [Disorderly](https://playdisorderly.com) - Sort random items from a specific category
-- [Thrice](https://thrice.geekswhodrink.com) - Solve five quiz questions from different categories with three or less hints
-- [Trivia Daily Dose](www.sporcle.com#daily-dose-section) by Sporcle (♾️) - A variety of Sporcle quizzes in random topics
-	- [Archive of previous daily quizzes](https://www.sporcle.com/games/tags/dailydose)
-- [Wikipedia Speedrun](https://wikispeedruns.com) (♾️) - Get from a starting article to an end article just through Wikipedia links
-	- (🤝) Playable in a private lobby if you create an account
 
 ---
 ## Curations
