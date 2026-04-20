@@ -88,6 +88,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - [YouTakeTwo](https://www.youtaketwo.com) (⭐) - Place the day's letters onto a grid to make a valid Scrabble-like crossword. Try the challenging number mode to form valid arithmetic math expressions!
 
 ## 🌍 World
+- 🆕 [Capitalle](https://www.capitalle.app) (⭐) - Solve your choice of eight different daily puzzle games (mostly World games!)
 - [City Guesser](https://virtualvacation.us/guess) - Guess the city based on footage from a street view video
 - 🆕 [Chartle](https://chartle.cc) (⭐) - Guess the country based on the mystery country's chart trajectory compared to other countries.
 - [Globle](https://globle-game.com) - Guess the country on a globe with hints based on proximity (hot or cold)
@@ -102,6 +103,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 ## 🥙 Miscellaneous
 - [Angle](https://angle.wtf) - Guess the pictured geometric angle by eye
 - 🆕 [Beat Darwin](https://beatdarwin.com) (⭐) - Guess the animal species based on a picture and biodiversity hints
+- 🆕 [Brandle](https://www.capitalle.app/brandle) (⭐) - Guess the brand from a blurred logo (popular game from Capitalle!)
 - [catfishing](https://catfishing.net/game/today) - Guess the Wikipedia article from its categories
 - [Chronophoto](https://www.chronophoto.app) (♾️) - Guess the year pictures are taken in
 - 🆕 [ClueTube](https://thecluetube.com) (⭐) - Guess the YouTube video based on its comments
