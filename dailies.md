@@ -96,6 +96,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - [Spellcheck](https://spellcheckgame.com) - Like a spelling bee, try to spell a series of words based on their pronunciation
 - 🆕 [Tilbo](https://tilbo.fun) (⭐) - Solve the Wordle x Tetris board by entering words to match with existing words' letters
 - [Waffle](https://wafflegame.net) - Wordle but in a waffle-shaped grid of six words
+- 🆕 [Word Bunny](https://wordbunny.app) (⭐) - Hop from the start word to the target word by adding, substituting, and removing letters, keeping each word a real word along the way
 - [Wordle](https://www.nytimes.com/games/wordle) - Guess the word with hints based on correct letters
 - [YouTakeTwo](https://www.youtaketwo.com) (⭐) - Place the day's letters onto a grid to make a valid Scrabble-like crossword. Try the challenging number mode to form valid arithmetic math expressions!
 
@@ -138,7 +139,8 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 2. [Matter](https://thelemma.co/matter)
 3. [catfishing](https://catfishing.net/game/today)
 4. [Tilbo](https://tilbo.fun)
-5. WIP - still considering my favorite candidates!
+5. [Word Bunny](https://wordbunny.app)
+6. WIP - still considering my favorite candidates!
 
 ### 🎮 Game Night Gauntlet
 1. [Gamedle](https://www.gamedle.wtf)
@@ -149,10 +151,11 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 
 ### 🧠 Brain Destroyers
 1. [Connections](https://www.nytimes.com/games/connections)
-2. [Spellcheck](https://spellcheckgame.com)
-3. [Quordle](https://www.merriam-webster.com/games/quordle)
-4. [Daily chess puzzle](https://www.chess.com/daily-chess-puzzle)
-5. [Semantle](https://semantle.com)
+2. [Minute Cryptic](https://www.minutecryptic.com)
+3. [Spellcheck](https://spellcheckgame.com)
+4. [Quordle](https://www.merriam-webster.com/games/quordle)
+5. [Daily chess puzzle](https://www.chess.com/daily-chess-puzzle)
+6. [Semantle](https://semantle.com)
    
 ---
 *Inspired by [Northernlion's content](https://youtu.be/JA9o6c7k62Y)!*
