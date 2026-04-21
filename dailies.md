@@ -44,13 +44,13 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - [Harmonies](https://harmonies.io) - Connections, but categories are music, song, and artist related
 - [Musicle](https://musicle.app) - Guess songs based off of music snippets
 - [PopIdle](https://popidle.the-sound.co.uk/) - Guess the album based on pixels from its album cover
-- 🆕 [Sportiz](https://playsportiz.com) - Across different sports, guess the mystery athlete based on facts about them and their career
 - [Spotle](https://spotle.io/) - Guess the music artist based off of hints about them
 
 ## 🧑 People
 - [Chronogram](https://chronogram.chat) - Guess who the historical figure is by discussing with their reconstructed AI models
 - 🆕 [FaceGrid](https://facegrid.app) - Guess the character by revealing cells of a grid concealing their face
 - [Hertl](https://www.hertl.app) - Guess the NHL player based on clues
+- 🆕 [Sportiz](https://playsportiz.com) - Across different sports, guess the mystery athlete based on facts about them and their career
 - [Talldle](https://www.talldle.com) - Sort your favorite celebrities by height every day
 
 ## 🧩 Puzzle
