@@ -96,6 +96,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - [RINARIN](https://www.rinarin.app) - Find four hidden words in a letter grid given the provided letter pool
 - [Semantle](https://semantle.com) (🤝) - Guess the word with hints based on closeness of meaning to the actual word
 - [Spellcheck](https://spellcheckgame.com) - Like a spelling bee, try to spell a series of words based on their pronunciation
+- 🆕 [Tessera](https://www.tesserapuzzle.com) (⭐) - Swap tiles in a 4x4 letter grid to solve for the day's four word rows
 - 🆕 [Tilbo](https://tilbo.fun) (⭐) - Solve the Wordle x Tetris board by entering words to match with existing words' letters
 - [Waffle](https://wafflegame.net) - Wordle but in a waffle-shaped grid of six words
 - 🆕 [Word Bunny](https://wordbunny.app) (⭐) - Hop from the start word to the target word by adding, substituting, and removing letters, keeping each word a real word along the way
