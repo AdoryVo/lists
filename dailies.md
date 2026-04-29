@@ -16,7 +16,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - [Scrandle](https://scrandle.com/) - Guess which scran (cheap food) users liked more
 
 ## 🕹️ Gaming
-- 🆕 [Black Mythdle](https://blackmythdle.com) - Guess the _Black Myth: Wukong_ boss based on map, difficulty, weaknesses, etc.
+- [Black Mythdle](https://blackmythdle.com) - Guess the _Black Myth: Wukong_ boss based on map, difficulty, weaknesses, etc.
 - [Gamedle](https://www.gamedle.wtf) (♾️) - Guess the game based on cover, artwork, or specifications
 - [Guess The Game](https://guessthe.game) - Guess the game based on gameplay images
 - [Kinda Hard Golf](https://kindahardgolf.com) - Play daily solo golf levels
@@ -88,10 +88,10 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - [Connections](https://www.nytimes.com/games/connections) - Guess how a variety of words group into four different categories
 - [Down for a Cross](https://downforacross.com) (🤝,♾️) - Daily crosswords from various sites playable for free
 - 🆕 [Hunch](https://hunch.game) (⭐) - Guess the series of words based on hints about correct letters and positions. Like Wordle meets Mastermind!
-- 🆕 [Matter](https://thelemma.co/matter) (⭐) - Form nouns from a daily pool of 50 letters that would physically overpower the 3 daily target nouns
+- [Matter](https://thelemma.co/matter) (⭐) - Form nouns from a daily pool of 50 letters that would physically overpower the 3 daily target nouns
 - [Minute Cryptic](https://www.minutecryptic.com) - Solve the word riddle by looking for hidden meanings in words
 - [Pixletters](https://pixletters.com) - Guess the word by the matching letter pixels in your guesses
-- 🆕 [Quartiles](https://quartileswordgame.com) - Combine letter segments to make as many words as possible
+- [Quartiles](https://quartileswordgame.com) - Combine letter segments to make as many words as possible
 - [Quordle](https://www.merriam-webster.com/games/quordle) by Merriam-Webster - Guess four words at a time based on correct letters
 - [RINARIN](https://www.rinarin.app) - Find four hidden words in a letter grid given the provided letter pool
 - [Semantle](https://semantle.com) (🤝) - Guess the word with hints based on closeness of meaning to the actual word
@@ -106,14 +106,14 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 ## 🌍 World
 - 🆕 [Capitalle](https://www.capitalle.app) (⭐) - Solve your choice of eight different daily puzzle games (mostly World games!)
 - [City Guesser](https://virtualvacation.us/guess) - Guess the city based on footage from a street view video
-- 🆕 [Chartle](https://chartle.cc) (⭐) - Guess the country based on the mystery country's chart trajectory compared to other countries.
+- [Chartle](https://chartle.cc) (⭐) - Guess the country based on the mystery country's chart trajectory compared to other countries.
 - [Globle](https://globle-game.com) - Guess the country on a globe with hints based on proximity (hot or cold)
 - [Juxtastat](https://urbanstats.org/quiz.html) - Choose between two locations for meeting a specific urban statistic
 - [TimeGuessr](https://timeguessr.com) (♾️) - Guess the time and location pictures are taken in
 - [Tradle](https://oec.world/en/tradle) - Guess the country based on their trade exports
 - [Travle](https://imois.in/games/travle) - Guess countries to make a connected land path between two given countries
-- 🆕 [TuneGuessr](https://www.tuneguessr.net) (⭐) - Guess the country based on a song with progressive hints (compass, distance, genre/instrument reveals)
-- 🆕 [World Clue](https://worldclue.com) (⭐) - Guess the country or region based on hints regarding topics such as geography, culture, demographics, economy, politics and more
+- [TuneGuessr](https://www.tuneguessr.net) (⭐) - Guess the country based on a song with progressive hints (compass, distance, genre/instrument reveals)
+- [World Clue](https://worldclue.com) (⭐) - Guess the country or region based on hints regarding topics such as geography, culture, demographics, economy, politics and more
 - [Worldle](https://worldle.teuteuf.fr) - Guess the country based on shape
 
 ## 🥙 Miscellaneous
