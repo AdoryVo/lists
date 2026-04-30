@@ -122,6 +122,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - 🆕 [Brandle](https://www.capitalle.app/brandle) (⭐) - Guess the brand from a blurred logo (popular game from Capitalle!)
 - [Chronophoto](https://www.chronophoto.app) (♾️) - Guess the year pictures are taken in
 - 🆕 [ClueTube](https://thecluetube.com) (⭐) - Guess the YouTube video based on its comments
+- 🆕 [The Daily Hue](https://thedailyhue.com) (⭐) - Guess the color from the famous artwork by adjusting and matching HSL sliders
 
 ---
 ## Curations
@@ -143,7 +144,8 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 3. [catfishing](https://catfishing.net/game/today)
 4. [Tilbo](https://tilbo.fun)
 5. [Word Bunny](https://wordbunny.app)
-6. WIP - still considering my favorite candidates!
+6. [The Daily Hue](https://thedailyhue.com)
+7. WIP - still considering my favorite candidates!
 
 ### 🎮 Game Night Gauntlet
 1. [Gamedle](https://www.gamedle.wtf)
