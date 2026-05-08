@@ -60,6 +60,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 	- (♾️) Playable up to a week in the past (unlimited with subscription)
 - [Daily Gogen](https://www.dailygogen.com) (⭐) - Solve logic puzzles by placing letters from a pool onto a grid to form the daily list of words from adjacent letters
 - 🆕 [DailyJig](https://dailyjig.com) - Solve the daily jigsaw puzzle and see your stats after you finish
+- 🆕 [Gradientle](https://gradientle.pages.dev) (⭐) - Constructing a 2d gradient from corner to corner by moving color tiles!
 - 🆕 [Loopy](https://loopy.wtf) (⭐) - Solve the daily path-drawing puzzle by drawing a closed loop that bends at the numbered spaces
 - [Murdle](https://murdle.com) - Solve mystery logic puzzles
 - 🆕 [Sections](https://www.sectionspuzzle.com/welcome/adoryvo) (⭐) - Fill a grid divided into sections. Each section must contain numbers 1 through its length with no repeats. A fresh alternative to Sudoku with a unique twist.
