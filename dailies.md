@@ -76,6 +76,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - 🆕 [Daily Orbs](https://dailyorbs.com) (⭐) - Complete your choice of handcrafted daily trivia puzzles to get enough points to win for the day!
 - [Disorderly](https://playdisorderly.com) - Sort random items from a specific category
 - 🆕 [Earlier](https://playearlier.com) - For three questions, guess which of two events occurred earlier
+- 🆕 [Estimania](https://estimania.app) (⭐) - Make your best estimates for five daily trivia questions!
 - [Thrice](https://thrice.geekswhodrink.com) - Solve five quiz questions from different categories with three or less hints
 - [Trivia Daily Dose](www.sporcle.com#daily-dose-section) by Sporcle (♾️) - A variety of Sporcle quizzes in random topics
 	- [Archive of previous daily quizzes](https://www.sporcle.com/games/tags/dailydose)
