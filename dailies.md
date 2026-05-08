@@ -123,7 +123,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - [Chronophoto](https://www.chronophoto.app) (♾️) - Guess the year pictures are taken in
 - 🆕 [ClueTube](https://thecluetube.com) (⭐) - Guess the YouTube video based on its comments
 - 🆕 [The Daily Hue](https://thedailyhue.com) (⭐) - Guess the color from the famous artwork by adjusting and matching HSL sliders
-- 🆕 [Close Hue](https://closehue.com) (⭐) - Given a color name, pick which color swatch matches it. Scored on how close your guess is. Daily challenges, unlimited mode, and multiplayer.
+- 🆕 [Close Hue](https://closehue.com) (⭐,♾️) - Given a color name, pick which color swatch matches it. Scored on how close your guess is. Daily challenges, unlimited mode, and multiplayer.
 
 ---
 ## Curations
