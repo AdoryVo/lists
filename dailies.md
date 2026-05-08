@@ -123,9 +123,9 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - 🆕 [Beat Darwin](https://beatdarwin.com) (⭐) - Guess the animal species based on a picture and biodiversity hints
 - 🆕 [Brandle](https://www.capitalle.app/brandle) (⭐) - Guess the brand from a blurred logo (popular game from Capitalle!)
 - [Chronophoto](https://www.chronophoto.app) (♾️) - Guess the year pictures are taken in
+- 🆕 [Close Hue](https://closehue.com) (⭐,♾️) - Given a color name, pick which color swatch matches it. Scored on how close your guess is. Daily challenges, unlimited mode, and multiplayer.
 - 🆕 [ClueTube](https://thecluetube.com) (⭐) - Guess the YouTube video based on its comments
 - 🆕 [The Daily Hue](https://thedailyhue.com) (⭐) - Guess the color from the famous artwork by adjusting and matching HSL sliders
-- 🆕 [Close Hue](https://closehue.com) (⭐,♾️) - Given a color name, pick which color swatch matches it. Scored on how close your guess is. Daily challenges, unlimited mode, and multiplayer.
 
 ---
 ## Curations
