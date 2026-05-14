@@ -44,6 +44,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - [Harmonies](https://harmonies.io) - Connections, but categories are music, song, and artist related
 - [Musicle](https://musicle.app) - Guess songs based off of music snippets
 - [PopIdle](https://popidle.the-sound.co.uk/) - Guess the album based on pixels from its album cover
+- 🆕 [Songless](https://www.songless.org) (+Ads, ♾️) - Guess the song based off of increasingly longer snippets
 - [Spotle](https://spotle.io/) - Guess the music artist based off of hints about them
 
 ## 🧑 People
