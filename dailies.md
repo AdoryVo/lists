@@ -59,7 +59,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - 🆕 [5Qs](https://www.play5qs.com) (⭐) - Ask 5 questions to an AI character source that responds with strict voice constraints to deduce the mystery scenario!
 - [Clues By Sam](https://cluesbysam.com) - Use clues to solve a logic puzzle grid
 	- (♾️) Edit the link https://cluesbysam.com/help/YYYY-MM-DD with the date you want to play, earliest is 2025-04-25
-- 🆕 [Daily](https://likewordle.com/games/daily) - Complete the daily rotating puzzle game to compete with others on a global leaderboard
+- 🆕 [Daily](https://playdaily.org) - Complete the daily rotating puzzle game to compete with others on a global leaderboard
 - [Daily chess puzzle](https://www.chess.com/daily-chess-puzzle) by Chess.com - Find the best moves in a daily chess position
 	- (♾️) Playable up to a week in the past (unlimited with subscription)
 - [Daily Gogen](https://www.dailygogen.com) (⭐) - Solve logic puzzles by placing letters from a pool onto a grid to form the daily list of words from adjacent letters
