@@ -56,6 +56,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - [Talldle](https://www.talldle.com) - Sort your favorite celebrities by height every day
 
 ## 🧩 Puzzle
+- 🆕 [5Qs](https://www.play5qs.com) (⭐) - Ask 5 questions to an AI character source that responds with strict voice constraints to deduce the mystery scenario!
 - [Clues By Sam](https://cluesbysam.com) - Use clues to solve a logic puzzle grid
 	- (♾️) Edit the link https://cluesbysam.com/help/YYYY-MM-DD with the date you want to play, earliest is 2025-04-25
 - [Daily chess puzzle](https://www.chess.com/daily-chess-puzzle) by Chess.com - Find the best moves in a daily chess position
