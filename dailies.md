@@ -38,6 +38,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - [Framed](https://framed.wtf) - Guess the movie based on its frames
 - [MovieGrid.io](https://moviegrid.io) - Guess a grid of movies that match certain criteria
 - [Movie to Movie](https://movietomovie.com) - Find a path between two movies by connecting them via actors and actresses who appeared together
+- 🆕 [Mr. Troove] (⭐) - Spot and guess the 10 movie references in the daily illustration!
 
 ## 🎵 Music
 - [Bandle](https://bandle.app) - Guess the song based on a series of revealed instrument melodies
