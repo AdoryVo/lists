@@ -72,6 +72,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - [Murdle](https://murdle.com) - Solve mystery logic puzzles
 - 🆕 [Sections](https://www.sectionspuzzle.com/welcome/adoryvo) (⭐) - Fill a grid divided into sections. Each section must contain numbers 1 through its length with no repeats. A fresh alternative to Sudoku with a unique twist.
 - 🆕 [Seedle](https://seedle.io) (⭐) - Place crops on a grid to optimize your grid score based off of plant, tile, and other effects!
+- 🆕 [Shrooms](https://greatest.games/g/shrooms) - Forage two mushrooms in every row, column, and colored region with none touching, across three timed daily sizes from 8x8 to 12x12
 - [Spectra](https://spectra.quest) (⭐) - Sort items from high to low by deducing the hidden metric from feedback provided after each submission.
 - 🆕 [Sudoku](https://greatest.games/g/sudoku) - Classic daily 9x9 Sudoku with four fresh difficulties each day, notes mode, and per-difficulty timing
 
