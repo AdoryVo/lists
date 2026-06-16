@@ -57,6 +57,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 
 ## 🧩 Puzzle
 - 🆕 [5Qs](https://www.play5qs.com) (⭐) - Ask 5 questions to an AI character source that responds with strict voice constraints to deduce the mystery scenario!
+- 🆕 [Afterglow](https://greatest.games/g/afterglow) - Recall five colors shown one at a time, then rebuild each from memory with hue, saturation, and brightness sliders, scored on color-difference math
 - 🆕 [Angler](https://greatest.games/g/angler) - Guess the day's angle in four tries, guided by higher/lower hints and a hot-cold closeness tier
 - 🆕 [Chroma](https://greatest.games/g/chroma) - Match the daily target color in six guesses by mixing three palette shades, graded on real color-difference math
 - [Clues By Sam](https://cluesbysam.com) - Use clues to solve a logic puzzle grid
