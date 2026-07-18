@@ -107,6 +107,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - 🆕 [8mal5](https://www.8mal5.de) - Wordle auf Deutsch: German Wordle with some extras like umlauts and longer words, daily and unlimited mode
 - [Absurdle](https://qntm.org/files/absurdle/absurdle.html) (🔀) - Wordle, but the word changes after each guess (except for the letters you've determined)
 - [Betweenle](https://betweenle.com) - Guess the word by guessing what dictionary words are near it
+- 🆕 [Cobble](wilf.live/cobble) - Submit two words that use up all of the day's letters, trying to minimize the length of your words.
 - [Connections](https://www.nytimes.com/games/connections) - Guess how a variety of words group into four different categories
 - [Down for a Cross](https://downforacross.com) (🤝,♾️) - Daily crosswords from various sites playable for free
 - 🆕 [Hunch](https://hunch.game) (⭐) - Guess the series of words based on hints about correct letters and positions. Like Wordle meets Mastermind!
