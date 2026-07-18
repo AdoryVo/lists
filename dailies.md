@@ -36,13 +36,13 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 	- (♾️) All archived games are accessible with a donation of any amount
 - [Cine2Nerdle](https://www.cinenerdle2.app) - Organize a grid of movies based on shared actors, plot points, and movie information
 - [Framed](https://framed.wtf) - Guess the movie based on its frames
-- [Luminary](https://play-luminary.com) - Guess the actor from a sentence clue and four photos, three timed rounds a day
+- 🆕 [Luminary](https://play-luminary.com) - Guess the actor from a sentence clue and four photos, three timed rounds a day
 - [MovieGrid.io](https://moviegrid.io) - Guess a grid of movies that match certain criteria
 - [Movie to Movie](https://movietomovie.com) - Find a path between two movies by connecting them via actors and actresses who appeared together
 - 🆕 [Mr. Troove](https://www.mrtroove.com/en) (⭐) - Spot and guess the 10 movie references in the daily illustration!
+- 🆕 [Plot-Hole](https://plot-hole.com) - Guess the daily movie from 5 clues that go from vague to obvious; guess early to score higher
+- 🆕 [TV Addict](https://tv-addict.com) - Guess the daily TV show from 5 clues that go from vague to obvious
 
-- [Plot-Hole](https://plot-hole.com) - Guess the daily movie from 5 clues that go from vague to obvious; guess early to score higher
-- [TV Addict](https://tv-addict.com) - Guess the daily TV show from 5 clues that go from vague to obvious
 ## 🎵 Music
 - [Bandle](https://bandle.app) - Guess the song based on a series of revealed instrument melodies
 - [Harmonies](https://harmonies.io) - Connections, but categories are music, song, and artist related
@@ -86,7 +86,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - [Disorderly](https://playdisorderly.com) - Sort random items from a specific category
 - 🆕 [Earlier](https://playearlier.com) - For three questions, guess which of two events occurred earlier
 - 🆕 [Estimania](https://estimania.app) (⭐) - Make your best estimates for five daily trivia questions!
-- [NORMIE](https://play-normie.com) - Answer three daily questions and guess how the crowd voted to see if you're normal
+- 🆕 [NORMIE](https://play-normie.com) - Answer three daily questions and guess how the crowd voted to see if you're normal
 - [Thrice](https://thrice.geekswhodrink.com) - Solve five quiz questions from different categories with three or less hints
 - [Trivia Daily Dose](www.sporcle.com#daily-dose-section) by Sporcle (♾️) - A variety of Sporcle quizzes in random topics
 	- [Archive of previous daily quizzes](https://www.sporcle.com/games/tags/dailydose)
