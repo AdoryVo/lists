@@ -1,13 +1,14 @@
 # Web-based games like Wordle, daily crosswords, etc.
 
-Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email business@adoryvo.com to suggest an addition!  
-😊 Many thanks to all the creators who have submitted their amazing sites recently in this past year (as of April 2026)!
+Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email business@adoryvo.com to suggest an addition! Generally, if you're suggesting a website that contains several simple games, I will only list the top-level site, not each individual game. 
+😊 Many thanks to all the creators who have submitted their amazing sites recently in this past year (as of July 2026)!
 
 ### 🔑 Key (indicating included functionality)
 - 🤝 = Multiplayer
 - 🔀 = Not daily (replayable)
 - ♾️ = Unlimited (or archived) rounds
 - ⭐ = Awesome additions that are well made and stand out to me!
+- 🗂️ = Collection of simple games
 - ⚠️ = Contains disruptive advertisement integration or requires account creation
 
 ## 🥙 Food
@@ -19,7 +20,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 ## 🕹️ Gaming
 - [Black Mythdle](https://blackmythdle.com) - Guess the _Black Myth: Wukong_ boss based on map, difficulty, weaknesses, etc.
 - [Gamedle](https://www.gamedle.wtf) (♾️) - Guess the game based on cover, artwork,or specifications
-- 🆕 [Guess the Champ](https://www.guessthechamp.net) - A collection of free daily guessing games for League of Legends, Valorant, and Clash Royale. Test your knowledge through champion and agent guessing, voice lines, cropped artwork, map locations, cards, and more
+- 🆕 [Guess the Champ](https://www.guessthechamp.net) (🗂️) - A collection of free daily guessing games for League of Legends, Valorant, and Clash Royale. Test your knowledge through champion and agent guessing, voice lines, cropped artwork, map locations, cards, and more
 - [Guess The Game](https://guessthe.game) - Guess the game based on gameplay images
 - [Kinda Hard Golf](https://kindahardgolf.com) - Play daily solo golf levels
 - [LoLdle](https://loldle.net) - Guess League of Legends champions based on a variety of criteria
@@ -56,7 +57,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - [Harmonies](https://harmonies.io) - Connections, but categories are music, song, and artist related
 - [Musicle](https://musicle.app) - Guess songs based off of music snippets
 - [PopIdle](https://popidle.the-sound.co.uk/) - Guess the album based on pixels from its album cover
-- 🆕 [Songless](https://www.songless.org) (+Ads, ♾️) - Guess the song based off of increasingly longer snippets
+- 🆕 [Songless](https://www.songless.org) (⚠️,♾️) - Guess the song based off of increasingly longer snippets
 - [Spotle](https://spotle.io/) - Guess the music artist based off of hints about them
 
 ## 🕵️ Mystery (Logic & Deduction)
@@ -76,29 +77,29 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 ## 🏅 Sports
 - 🆕 [Footle](https://balliq.app/footle) - Daily football take on Wordle - six guesses to name a mystery footballer, with hints on nationality, position, age, club and shirt number, and a new player every day. Free, plays in the browser, no signup.
 - [Hertl](https://www.hertl.app) - Guess the NHL player based on clues
-- [Scorewit](https://www.scorewit.com) - Daily World Cup soccer trivia — six sourced questions a day
+- [Scorewit](https://www.scorewit.com) (🗂️) - Daily World Cup soccer trivia — six sourced questions a day
 	- [Scorewit Cricket](https://cricket.scorewit.com) - Daily Cricket World Cup trivia (ODI + T20)
 	- [Scorewit Baseball](https://baseball.scorewit.com) - Daily World Series trivia, every Fall Classic since 1903
 	- [Scorewit F1](https://f1.scorewit.com) - Daily Formula 1 history trivia, every season since 1950
 	- [Scorewit Gridiron](https://gridiron.scorewit.com) - Daily NFL history trivia, every season since 1999
-- 🆕 [Sportiz](https://playsportiz.com) - Across different sports, guess the mystery athlete based on facts about them and their career
-- 🆕 [StatBox](https://statbox.cc) - Guess the mystery player, revealing another fact about the player with each incorrect guess
+- 🆕 [Sportiz](https://playsportiz.com) (🗂️) - Across different sports, guess the mystery athlete based on facts about them and their career
+- 🆕 [StatBox](https://statbox.cc) (🗂️) - Guess the mystery player, revealing another fact about the player with each incorrect guess
 - 🆕 [World Cup Time Machine](https://wctm.app) (🤝) - Draft an all-time XI from 80 years of real World Cup squads (Pelé and Mbappé on one team), then play the group stage and knockouts to win the day's tournament
 
 ## 🧩 Puzzle
 - 🆕 [Afterglow](https://greatest.games/g/afterglow) - Recall five colors shown one at a time, then rebuild each from memory with hue, saturation, and brightness sliders, scored on color-difference math
 - 🆕 [Angler](https://greatest.games/g/angler) - Guess the day's angle in four tries, guided by higher/lower hints and a hot-cold closeness tier
 - 🆕 [Chroma](https://greatest.games/g/chroma) - Match the daily target color in six guesses by mixing three palette shades, graded on real color-difference math
-- 🆕 [Daily](https://playdaily.org) - Complete the daily rotating puzzle game to compete with others on a global leaderboard
+- 🆕 [Daily](https://playdaily.org) (⚠️,🗂️) - Complete the daily rotating puzzle game to compete with others on a global leaderboard
 - [Daily chess puzzle](https://www.chess.com/daily-chess-puzzle) by Chess.com - Find the best moves in a daily chess position
 	- (♾️) Playable up to a week in the past (unlimited with subscription)
 - [Daily Gogen](https://www.dailygogen.com) (⭐) - Solve logic puzzles by placing letters from a pool onto a grid to form the daily list of words from adjacent letters
 - 🆕 [DailyJig](https://dailyjig.com) - Solve the daily jigsaw puzzle and see your stats after you finish
 - 🆕 [Gerrymandle](https://gerrymandle.cc) - Draw electoral districts to help your party win the elections
-- 🆕 [Gradientle](https://gradientle.pages.dev) (⭐) - Constructing a 2d gradient from corner to corner by moving color tiles!
-- 🆕 [Gauntle](https://gauntle.com) - A daily back-to-back gauntlet of 11 puzzle games with one overall timer.
+- 🆕 [Gradientle](https://gradientle.pages.dev) (⭐) - Constructing a 2D gradient from corner to corner by moving color tiles!
+- 🆕 [Gauntle](https://gauntle.com) (🗂️) - A daily back-to-back gauntlet of 11 puzzle games with one overall timer.
 - 🆕 [Loopy](https://loopy.wtf) (⭐) - Solve the daily path-drawing puzzle by drawing a closed loop that bends at the numbered spaces
-- 🆕 [Lost Art Games](https://www.lostartgames.com) - Solve a selection of daily puzzle games (quotes, words, and numbers)
+- 🆕 [Lost Art Games](https://www.lostartgames.com) (🗂️) - Solve a selection of daily puzzle games (quotes, words, and numbers)
 - 🆕 [Sections](https://www.sectionspuzzle.com/welcome/adoryvo) (⭐) - Fill a grid divided into sections. Each section must contain numbers 1 through its length with no repeats. A fresh alternative to Sudoku with a unique twist.
 - 🆕 [Seedle](https://seedle.io) (⭐) - Place crops on a grid to optimize your grid score based off of plant, tile, and other effects!
 - 🆕 [Shrooms](https://greatest.games/g/shrooms) - Forage two mushrooms in every row, column, and colored region with none touching, across three timed daily sizes from 8x8 to 12x12
@@ -134,7 +135,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - 🆕 [Cobble](wilf.live/cobble) - Submit two words that use up all of the day's letters, trying to minimize the length of your words.
 - [Connections](https://www.nytimes.com/games/connections) - Guess how a variety of words group into four different categories
 - [Down for a Cross](https://downforacross.com) (🤝,♾️) - Daily crosswords from various sites playable for free
-- 🆕 [Gazettle](https://gazettle.app) - Three daily word puzzles in one vintage newspaper: guess by letters (Classic), by meaning (Semantic), or build a word chain (Bridge). Free, no account.
+- 🆕 [Gazettle](https://gazettle.app) (🗂️) - Three daily word puzzles in one vintage newspaper: guess by letters (Classic), by meaning (Semantic), or build a word chain (Bridge). Free, no account.
 - 🆕 [Hunch](https://hunch.game) (⭐) - Guess the series of words based on hints about correct letters and positions. Like Wordle meets Mastermind!
 - 🆕 [Jumble](https://greatest.games/g/jumble) - Swap tiles in a 5x5 waffle grid to solve six interlocking five-letter words in 15 swaps or fewer
 - [Matter](https://thelemma.co/matter) (⭐) - Form nouns from a daily pool of 50 letters that would physically overpower the 3 daily target nouns
@@ -166,7 +167,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - [Globle](https://globle-game.com) - Guess the country on a globe with hints based on proximity (hot or cold)
 - [Juxtastat](https://urbanstats.org/quiz.html) - Choose between two locations for meeting a specific urban statistic
 - 🆕 [Statedoku](https://statedoku.com) (🔀) - Fill a 3×3 grid with US states matching both a row clue and a column clue (e.g. "borders Canada" × "no income tax")
-- 🆕 [TerraDex](https://terradex.mercilessstudio.com) - Solve the daily expedition of geography puzzles - country borders, real terrain, clocks, daylight and more (twelve games, five per day)
+- 🆕 [TerraDex](https://terradex.mercilessstudio.com) (🗂️) - Solve the daily expedition of geography puzzles - country borders, real terrain, clocks, daylight and more (twelve games, five per day)
 - [TimeGuessr](https://timeguessr.com) (♾️) - Guess the time and location pictures are taken in
 - [Tradle](https://oec.world/en/tradle) - Guess the country based on their trade exports
 - [Travle](https://imois.in/games/travle) - Guess countries to make a connected land path between two given countries
@@ -179,14 +180,17 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - [Angle](https://angle.wtf) - Guess the pictured geometric angle by eye
 - 🆕 [Beat Darwin](https://beatdarwin.com) (⭐) - Guess the animal species based on a picture and biodiversity hints
 - 🆕 [Brandle](https://www.capitalle.app/brandle) (⭐) - Guess the brand from a blurred logo (popular game from Capitalle!)
-- 🆕 [Cars & Games](https://carsandgames.com/daily?utm_source=adoryvo&utm_campaign=adoryvo) - Everything from real world price guessing to car trivia, all combined into a single package with trackable result
+- 🆕 [Cars & Games](https://carsandgames.com/daily?utm_source=adoryvo&utm_campaign=adoryvo) (🗂️) - Everything from real world price guessing to car trivia, all combined into a single package with trackable result
 - [Chronophoto](https://www.chronophoto.app) (♾️) - Guess the year pictures are taken in
 - 🆕 [Close Hue](https://closehue.com) (⭐,♾️) - Given a color name, pick which color swatch matches it. Scored on how close your guess is. Daily challenges, unlimited mode, and multiplayer.
 - 🆕 [ClueTube](https://thecluetube.com) (⭐) - Guess the YouTube video based on its comments
 - 🆕 [Compoundle](https://compoundle.com) - Guess whether to invest, short, or pass on an stock based on the stock company's historical data
 - 🆕 [Gemdle](https://www.gemdle.com) (♾️) – Daily crystal, rock & gemstone guessing game using real specimen photos — plus unlimited quiz, guided identifier, and a 250+ stone A–Z guide.
 - 🆕 [Huedle](https://www.huedle.uk) - Huedle is a color gradient puzzle game - with a fresh board every day. Rearrange the tiles to form a perfect gradient across the grid. Your goal is to complete the grid in the least moves and fastest time. Easy to pick up, hard to put down.
+- 🆕 [Huekle](https://huekle.com) (color), [Hearkle](https://hearkle.com) (pitch) & [Chronkle](https://chronkle.com) (tempo) (🗂️) — daily perception games
+- 🆕 [MinCalc](https://mincalc.com) (🗂️) - Calm daily puzzles with animal themes
 - 🆕 [NeuroSprint](https://playneurosprint.vercel.app) - A daily brain benchmark: 3 micro-tests (reaction time, number flash, sequence recall) in ~2 minutes. Everyone worldwide gets the same seeded challenge each UTC day,
+- 🆕 [Stoop](https://stoop.games) (🗂️) - tiny games, every day
 - 🆕 [The Daily Hue](https://thedailyhue.com) (⭐) - Guess the color from the famous artwork by adjusting and matching HSL sliders
 - 🆕 [TubeCount](https://tubecount.com) (⭐) - Guess how many views a real YouTube video got from its thumbnail
 
