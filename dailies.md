@@ -68,6 +68,9 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - [Talldle](https://www.talldle.com) - Sort your favorite celebrities by height every day
 
 ## 🧩 Puzzle
+- 🆕 [Afterglow](https://greatest.games/g/afterglow) - Recall five colors shown one at a time, then rebuild each from memory with hue, saturation, and brightness sliders, scored on color-difference math
+- 🆕 [Angler](https://greatest.games/g/angler) - Guess the day's angle in four tries, guided by higher/lower hints and a hot-cold closeness tier
+- 🆕 [Chroma](https://greatest.games/g/chroma) - Match the daily target color in six guesses by mixing three palette shades, graded on real color-difference math
 - 🆕 [Daily](https://playdaily.org) - Complete the daily rotating puzzle game to compete with others on a global leaderboard
 - [Daily chess puzzle](https://www.chess.com/daily-chess-puzzle) by Chess.com - Find the best moves in a daily chess position
 	- (♾️) Playable up to a week in the past (unlimited with subscription)
@@ -78,7 +81,9 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - 🆕 [Lost Art Games](https://www.lostartgames.com) - Solve a selection of daily puzzle games (quotes, words, and numbers)
 - 🆕 [Sections](https://www.sectionspuzzle.com/welcome/adoryvo) (⭐) - Fill a grid divided into sections. Each section must contain numbers 1 through its length with no repeats. A fresh alternative to Sudoku with a unique twist.
 - 🆕 [Seedle](https://seedle.io) (⭐) - Place crops on a grid to optimize your grid score based off of plant, tile, and other effects!
+- 🆕 [Shrooms](https://greatest.games/g/shrooms) - Forage two mushrooms in every row, column, and colored region with none touching, across three timed daily sizes from 8x8 to 12x12
 - [Spectra](https://spectra.quest) (⭐) - Sort items from high to low by deducing the hidden metric from feedback provided after each submission.
+- 🆕 [Sudoku](https://greatest.games/g/sudoku) - Classic daily 9x9 Sudoku with four fresh difficulties each day, notes mode, and per-difficulty timing
 
 ## 🏠 Real Estate
 - [Housle](https://housle.house) - Guess the asking price of a house based on pictures and clues
@@ -105,6 +110,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - [Connections](https://www.nytimes.com/games/connections) - Guess how a variety of words group into four different categories
 - [Down for a Cross](https://downforacross.com) (🤝,♾️) - Daily crosswords from various sites playable for free
 - 🆕 [Hunch](https://hunch.game) (⭐) - Guess the series of words based on hints about correct letters and positions. Like Wordle meets Mastermind!
+- 🆕 [Jumble](https://greatest.games/g/jumble) - Swap tiles in a 5x5 waffle grid to solve six interlocking five-letter words in 15 swaps or fewer
 - [Matter](https://thelemma.co/matter) (⭐) - Form nouns from a daily pool of 50 letters that would physically overpower the 3 daily target nouns
 - [Minute Cryptic](https://www.minutecryptic.com) - Solve the word riddle by looking for hidden meanings in words
 - [Pixletters](https://pixletters.com) - Guess the word by the matching letter pixels in your guesses
@@ -112,6 +118,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - [Quordle](https://www.merriam-webster.com/games/quordle) by Merriam-Webster - Guess four words at a time based on correct letters
 - [RINARIN](https://www.rinarin.app) - Find four hidden words in a letter grid given the provided letter pool
 - [Semantle](https://semantle.com) (🤝) - Guess the word with hints based on closeness of meaning to the actual word
+- 🆕 [Slideword](https://greatest.games/g/slideword) - Slide whole rows and columns of a 5x5 grid until all five rows spell words, with tap-to-reveal clues and Easy/Hard modes
 - [Spellcheck](https://spellcheckgame.com) - Like a spelling bee, try to spell a series of words based on their pronunciation
 - 🆕 [Tessera](https://www.tesserapuzzle.com) (⭐) - Swap tiles in a 4x4 letter grid to solve for the day's four word rows
 - 🆕 [Tilbo](https://tilbo.fun) (⭐) - Solve the Wordle x Tetris board by entering words to match with existing words' letters
@@ -120,7 +127,9 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - [Waffle](https://wafflegame.net) - Wordle but in a waffle-shaped grid of six words
 - 🆕 [Word Bunny](https://wordbunny.app) (⭐) - Hop from the start word to the target word by adding, substituting, and removing letters, keeping each word a real word along the way
 - [Wordle](https://www.nytimes.com/games/wordle) - Guess the word with hints based on correct letters
+- 🆕 [Wordly](https://greatest.games/g/wordly) - Guess the daily six-letter word in six tries, with a strict optional Hard Mode that enforces every revealed clue
 - [YouTakeTwo](https://www.youtaketwo.com) (⭐) - Place the day's letters onto a grid to make a valid Scrabble-like crossword. Try the challenging number mode to form valid arithmetic math expressions!
+- 🆕 [Zigzag](https://greatest.games/g/zigzag) - Trace a path picking one letter per column across a 4x5 grid to spell words; find 10 clued bonus words plus 10 freebies for a perfect 100
 
 ## 🌍 World
 - 🆕 [Capitalle](https://www.capitalle.app) (⭐) - Solve your choice of eight different daily puzzle games (mostly World games!)
