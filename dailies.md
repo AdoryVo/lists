@@ -60,7 +60,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - 🆕 [Daily Murder](https://dailymurder.com) (♾️) - Daily logic-deduction mystery. Use witness clues to identify the killer on a suspect/weapon/location grid
 - [Murdle](https://murdle.com) - Solve mystery logic puzzles
 
-## 🧑 People
+## 🧑 People & Characters
 - [Chronogram](https://chronogram.chat) - Guess who the historical figure is by discussing with their reconstructed AI models
 - 🆕 [FaceGrid](https://facegrid.app) - Guess the character by revealing cells of a grid concealing their face
 - 🆕 [Footle](https://balliq.app/footle) - Daily football take on Wordle - six guesses to name a mystery footballer, with hints on nationality, position, age, club and shirt number, and a new player every day. Free, plays in the browser, no signup.
@@ -68,6 +68,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - 🆕 [Picguessr](https://picguessr.io) (⚠️) - Recognize as many pop culture characters as possible before time runs out, including characters from video games, anime, movies, TV shows, and more
 - 🆕 [Sportiz](https://playsportiz.com) - Across different sports, guess the mystery athlete based on facts about them and their career
 - [Talldle](https://www.talldle.com) - Sort your favorite celebrities by height every day
+- 🆕 [Toon Tone Fun](https://toon-tone.fun) - Rebuild a famous cartoon character's exact color from memory using hue, saturation, and brightness sliders
 
 ## 🧩 Puzzle
 - 🆕 [Afterglow](https://greatest.games/g/afterglow) - Recall five colors shown one at a time, then rebuild each from memory with hue, saturation, and brightness sliders, scored on color-difference math
