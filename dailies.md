@@ -59,6 +59,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 ## 🧑 People
 - [Chronogram](https://chronogram.chat) - Guess who the historical figure is by discussing with their reconstructed AI models
 - 🆕 [FaceGrid](https://facegrid.app) - Guess the character by revealing cells of a grid concealing their face
+- 🆕 [Footle](https://balliq.app/footle) - Daily football take on Wordle - six guesses to name a mystery footballer, with hints on nationality, position, age, club and shirt number, and a new player every day. Free, plays in the browser, no signup.
 - [Hertl](https://www.hertl.app) - Guess the NHL player based on clues
 - 🆕 [Sportiz](https://playsportiz.com) - Across different sports, guess the mystery athlete based on facts about them and their career
 - [Talldle](https://www.talldle.com) - Sort your favorite celebrities by height every day
