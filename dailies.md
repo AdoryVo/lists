@@ -111,6 +111,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - 🆕 [Tessera](https://www.tesserapuzzle.com) (⭐) - Swap tiles in a 4x4 letter grid to solve for the day's four word rows
 - 🆕 [Tilbo](https://tilbo.fun) (⭐) - Solve the Wordle x Tetris board by entering words to match with existing words' letters
 - 🆕 [Vendy](https://playvendy.com) (♾️) - Unscramble the letters in the Venn diagram to guess the two words
+- 🆕 [Virian](https://words.virian.tech) - Crossword game for those 65+, allowing seniors to constantly train their minds and memory.
 - [Waffle](https://wafflegame.net) - Wordle but in a waffle-shaped grid of six words
 - 🆕 [Word Bunny](https://wordbunny.app) (⭐) - Hop from the start word to the target word by adding, substituting, and removing letters, keeping each word a real word along the way
 - [Wordle](https://www.nytimes.com/games/wordle) - Guess the word with hints based on correct letters
