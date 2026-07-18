@@ -22,6 +22,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - [Kinda Hard Golf](https://kindahardgolf.com) - Play daily solo golf levels
 - [LoLdle](https://loldle.net) - Guess League of Legends champions based on a variety of criteria
 - [Lostgamer](https://lostgamer.io) (🔀) - Guess your location in video game maps from a first-person street view (like Geoguessr)
+- [OverwatchDLE](https://overwatchdle.day) - A free daily puzzle game for Overwatch fans. Two modes: guess the day's hero from attribute clues, or identify the map from a close-up image that zooms out with each wrong guess. A new puzzle every day, playable in multiple languages, no account needed.
 - [PokeDoku](https://pokedoku.com) - Guess a grid of Pokémon who match certain criteria
 - [Pokédle](https://pokedle.net) - Guess Pokémon based on a variety of criteria (like LoLdle!)
 - [Pokémon Cries](https://pokemoncries.com) - Guess the Pokémon based on its cry via multiple choice
@@ -48,17 +49,22 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - 🆕 [Songless](https://www.songless.org) (+Ads, ♾️) - Guess the song based off of increasingly longer snippets
 - [Spotle](https://spotle.io/) - Guess the music artist based off of hints about them
 
+## 🕵️ Mystery (Logic & Deduction)
+- 🆕 [5Qs](https://www.play5qs.com) (⭐) - Ask 5 questions to an AI character source that responds with strict voice constraints to deduce the mystery scenario!
+- [Clues By Sam](https://cluesbysam.com) - Use clues to solve a logic puzzle grid
+	- (♾️) Edit the link https://cluesbysam.com/help/YYYY-MM-DD with the date you want to play, earliest is 2025-04-25
+- [Daily Murder](https://dailymurder.com) - Elimination grid with suspects, weapons, and locations. Read testimony, study forensics, cross things off. One answer per puzzle, verified by a constraint solver. Monday is easy (4 suspects). Friday is hard (6 of everything, lying witness, motive). Solve all seven and a conspiracy case opens linking the week's killers.
+- [Murdle](https://murdle.com) - Solve mystery logic puzzles
+
 ## 🧑 People
 - [Chronogram](https://chronogram.chat) - Guess who the historical figure is by discussing with their reconstructed AI models
 - 🆕 [FaceGrid](https://facegrid.app) - Guess the character by revealing cells of a grid concealing their face
+- 🆕 [Footle](https://balliq.app/footle) - Daily football take on Wordle - six guesses to name a mystery footballer, with hints on nationality, position, age, club and shirt number, and a new player every day. Free, plays in the browser, no signup.
 - [Hertl](https://www.hertl.app) - Guess the NHL player based on clues
 - 🆕 [Sportiz](https://playsportiz.com) - Across different sports, guess the mystery athlete based on facts about them and their career
 - [Talldle](https://www.talldle.com) - Sort your favorite celebrities by height every day
 
 ## 🧩 Puzzle
-- 🆕 [5Qs](https://www.play5qs.com) (⭐) - Ask 5 questions to an AI character source that responds with strict voice constraints to deduce the mystery scenario!
-- [Clues By Sam](https://cluesbysam.com) - Use clues to solve a logic puzzle grid
-	- (♾️) Edit the link https://cluesbysam.com/help/YYYY-MM-DD with the date you want to play, earliest is 2025-04-25
 - 🆕 [Daily](https://playdaily.org) - Complete the daily rotating puzzle game to compete with others on a global leaderboard
 - [Daily chess puzzle](https://www.chess.com/daily-chess-puzzle) by Chess.com - Find the best moves in a daily chess position
 	- (♾️) Playable up to a week in the past (unlimited with subscription)
@@ -68,7 +74,6 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - 🆕 [Gradientle](https://gradientle.pages.dev) (⭐) - Constructing a 2d gradient from corner to corner by moving color tiles!
 - 🆕 [Loopy](https://loopy.wtf) (⭐) - Solve the daily path-drawing puzzle by drawing a closed loop that bends at the numbered spaces
 - 🆕 [Lost Art Games](https://www.lostartgames.com) - Solve a selection of daily puzzle games (quotes, words, and numbers)
-- [Murdle](https://murdle.com) - Solve mystery logic puzzles
 - 🆕 [Sections](https://www.sectionspuzzle.com/welcome/adoryvo) (⭐) - Fill a grid divided into sections. Each section must contain numbers 1 through its length with no repeats. A fresh alternative to Sudoku with a unique twist.
 - 🆕 [Seedle](https://seedle.io) (⭐) - Place crops on a grid to optimize your grid score based off of plant, tile, and other effects!
 - [Spectra](https://spectra.quest) (⭐) - Sort items from high to low by deducing the hidden metric from feedback provided after each submission.
@@ -107,6 +112,8 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - [Spellcheck](https://spellcheckgame.com) - Like a spelling bee, try to spell a series of words based on their pronunciation
 - 🆕 [Tessera](https://www.tesserapuzzle.com) (⭐) - Swap tiles in a 4x4 letter grid to solve for the day's four word rows
 - 🆕 [Tilbo](https://tilbo.fun) (⭐) - Solve the Wordle x Tetris board by entering words to match with existing words' letters
+- 🆕 [Vendy](https://playvendy.com) (♾️) - Unscramble the letters in the Venn diagram to guess the two words
+- 🆕 [Virian](https://words.virian.tech) - Crossword game for those 65+, allowing seniors to constantly train their minds and memory.
 - [Waffle](https://wafflegame.net) - Wordle but in a waffle-shaped grid of six words
 - 🆕 [Word Bunny](https://wordbunny.app) (⭐) - Hop from the start word to the target word by adding, substituting, and removing letters, keeping each word a real word along the way
 - [Wordle](https://www.nytimes.com/games/wordle) - Guess the word with hints based on correct letters
