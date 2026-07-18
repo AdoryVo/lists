@@ -8,6 +8,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - 🔀 = Not daily (replayable)
 - ♾️ = Unlimited (or archived) rounds
 - ⭐ = Awesome additions that are well made and stand out to me!
+- ⚠️ = Contains disruptive advertisement integration or requires account creation
 
 ## 🥙 Food
 - [Costcodle](https://costcodle.com) - Guess the approximate price of a random Costco item
@@ -56,7 +57,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - 🆕 [5Qs](https://www.play5qs.com) (⭐) - Ask 5 questions to an AI character source that responds with strict voice constraints to deduce the mystery scenario!
 - [Clues By Sam](https://cluesbysam.com) - Use clues to solve a logic puzzle grid
 	- (♾️) Edit the link https://cluesbysam.com/help/YYYY-MM-DD with the date you want to play, earliest is 2025-04-25
-- 🆕 [Daily Murder](https://dailymurder.com) (♾️) - Daily logic-deduction mystery. Use witness clues to identify the killer on a suspect/weapon/location grid.
+- 🆕 [Daily Murder](https://dailymurder.com) (♾️) - Daily logic-deduction mystery. Use witness clues to identify the killer on a suspect/weapon/location grid
 - [Murdle](https://murdle.com) - Solve mystery logic puzzles
 
 ## 🧑 People
@@ -64,6 +65,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - 🆕 [FaceGrid](https://facegrid.app) - Guess the character by revealing cells of a grid concealing their face
 - 🆕 [Footle](https://balliq.app/footle) - Daily football take on Wordle - six guesses to name a mystery footballer, with hints on nationality, position, age, club and shirt number, and a new player every day. Free, plays in the browser, no signup.
 - [Hertl](https://www.hertl.app) - Guess the NHL player based on clues
+- 🆕 [Picguessr](https://picguessr.io) (⚠️) - Recognize as many pop culture characters as possible before time runs out, including characters from video games, anime, movies, TV shows, and more
 - 🆕 [Sportiz](https://playsportiz.com) - Across different sports, guess the mystery athlete based on facts about them and their career
 - [Talldle](https://www.talldle.com) - Sort your favorite celebrities by height every day
 
@@ -124,7 +126,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - 🆕 [Tessera](https://www.tesserapuzzle.com) (⭐) - Swap tiles in a 4x4 letter grid to solve for the day's four word rows
 - 🆕 [Tilbo](https://tilbo.fun) (⭐) - Solve the Wordle x Tetris board by entering words to match with existing words' letters
 - 🆕 [Vendy](https://playvendy.com) (♾️) - Unscramble the letters in the Venn diagram to guess the two words
-- 🆕 [Virian](https://words.virian.tech) - Crossword game for those 65+, allowing seniors to constantly train their minds and memory.
+- 🆕 [Virian](https://words.virian.tech) - Crossword game for those 65+, allowing seniors to constantly train their minds and memory
 - [Waffle](https://wafflegame.net) - Wordle but in a waffle-shaped grid of six words
 - 🆕 [Word Bunny](https://wordbunny.app) (⭐) - Hop from the start word to the target word by adding, substituting, and removing letters, keeping each word a real word along the way
 - [Wordle](https://www.nytimes.com/games/wordle) - Guess the word with hints based on correct letters
@@ -135,7 +137,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 ## 🌍 World
 - 🆕 [Capitalle](https://www.capitalle.app) (⭐) - Solve your choice of eight different daily puzzle games (mostly World games!)
 - [City Guesser](https://virtualvacation.us/guess) - Guess the city based on footage from a street view video
-- [Chartle](https://chartle.cc) (⭐) - Guess the country based on the mystery country's chart trajectory compared to other countries.
+- [Chartle](https://chartle.cc) (⭐) - Guess the country based on the mystery country's chart trajectory compared to other countries
 - [Globle](https://globle-game.com) - Guess the country on a globe with hints based on proximity (hot or cold)
 - [Juxtastat](https://urbanstats.org/quiz.html) - Choose between two locations for meeting a specific urban statistic
 - 🆕 [Statedoku](https://statedoku.com) (🔀) - Fill a 3×3 grid with US states matching both a row clue and a column clue (e.g. "borders Canada" × "no income tax")
