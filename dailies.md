@@ -122,6 +122,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - [Pixletters](https://pixletters.com) - Guess the word by the matching letter pixels in your guesses
 - [Quartiles](https://quartileswordgame.com) - Combine letter segments to make as many words as possible
 - [Quordle](https://www.merriam-webster.com/games/quordle) by Merriam-Webster - Guess four words at a time based on correct letters
+- 🆕 [Rebusly](https://www.rebusly.com) (⭐) - A free daily rebus puzzle drawn from today's news. Crack the visual, name the phrase, then read the coverage.
 - [RINARIN](https://www.rinarin.app) - Find four hidden words in a letter grid given the provided letter pool
 - [Semantle](https://semantle.com) (🤝) - Guess the word with hints based on closeness of meaning to the actual word
 - 🆕 [Slideword](https://greatest.games/g/slideword) - Slide whole rows and columns of a 5x5 grid until all five rows spell words, with tap-to-reveal clues and Easy/Hard modes
