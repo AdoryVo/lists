@@ -53,7 +53,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - 🆕 [5Qs](https://www.play5qs.com) (⭐) - Ask 5 questions to an AI character source that responds with strict voice constraints to deduce the mystery scenario!
 - [Clues By Sam](https://cluesbysam.com) - Use clues to solve a logic puzzle grid
 	- (♾️) Edit the link https://cluesbysam.com/help/YYYY-MM-DD with the date you want to play, earliest is 2025-04-25
-- [Daily Murder](https://dailymurder.com) - Elimination grid with suspects, weapons, and locations. Read testimony, study forensics, cross things off. One answer per puzzle, verified by a constraint solver. Monday is easy (4 suspects). Friday is hard (6 of everything, lying witness, motive). Solve all seven and a conspiracy case opens linking the week's killers.
+- 🆕 [Daily Murder](https://dailymurder.com) (♾️) - Daily logic-deduction mystery. Use witness clues to identify the killer on a suspect/weapon/location grid.
 - [Murdle](https://murdle.com) - Solve mystery logic puzzles
 
 ## 🧑 People
@@ -69,7 +69,6 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - [Daily chess puzzle](https://www.chess.com/daily-chess-puzzle) by Chess.com - Find the best moves in a daily chess position
 	- (♾️) Playable up to a week in the past (unlimited with subscription)
 - [Daily Gogen](https://www.dailygogen.com) (⭐) - Solve logic puzzles by placing letters from a pool onto a grid to form the daily list of words from adjacent letters
-- 🆕 [Daily Murder](https://dailymurder.com) (♾️) - Daily logic-deduction mystery. Use witness clues to identify the killer on a suspect/weapon/location grid.
 - 🆕 [DailyJig](https://dailyjig.com) - Solve the daily jigsaw puzzle and see your stats after you finish
 - 🆕 [Gradientle](https://gradientle.pages.dev) (⭐) - Constructing a 2d gradient from corner to corner by moving color tiles!
 - 🆕 [Loopy](https://loopy.wtf) (⭐) - Solve the daily path-drawing puzzle by drawing a closed loop that bends at the numbered spaces
