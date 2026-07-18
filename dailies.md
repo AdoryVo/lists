@@ -18,11 +18,13 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 
 ## 🕹️ Gaming
 - [Black Mythdle](https://blackmythdle.com) - Guess the _Black Myth: Wukong_ boss based on map, difficulty, weaknesses, etc.
-- [Gamedle](https://www.gamedle.wtf) (♾️) - Guess the game based on cover, artwork, or specifications
+- [Gamedle](https://www.gamedle.wtf) (♾️) - Guess the game based on cover, artwork,or specifications
+- 🆕 [Guess the Champ](https://www.guessthechamp.net) - A collection of free daily guessing games for League of Legends, Valorant, and Clash Royale. Test your knowledge through champion and agent guessing, voice lines, cropped artwork, map locations, cards, and more
 - [Guess The Game](https://guessthe.game) - Guess the game based on gameplay images
 - [Kinda Hard Golf](https://kindahardgolf.com) - Play daily solo golf levels
 - [LoLdle](https://loldle.net) - Guess League of Legends champions based on a variety of criteria
 - [Lostgamer](https://lostgamer.io) (🔀) - Guess your location in video game maps from a first-person street view (like Geoguessr)
+- 🆕 [Mini Golf Club](https://minigolfclub.io/daily) - A 3D daily golf game with hundreds of challenging levels.
 - 🆕 [NintenDoku](https://www.n-puzzle.com/en/nintendoku) (♾️) - Fill a 3x3 grid where each cell needs a Nintendo game matching both its row and column category
 - 🆕 [OverwatchDLE](https://overwatchdle.day) - A free daily puzzle game for Overwatch fans. Two modes: guess the day's hero from attribute clues, or identify the map from a close-up image that zooms out with each wrong guess. A new puzzle every day, playable in multiple languages, no account needed.
 - 🆕 [Perfect Game](https://www.n-puzzle.com/en/perfect-game) (♾️) - Pick the Nintendo game with the highest sales and Metacritic score across three rounds, then keep the cover you build
@@ -34,12 +36,14 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - [Squirdle](https://squirdle.fireblend.com/daily.html) (♾️) - Guess the Pokémon based on a variety of traits
 - [Who's That Pokémon?](https://gearoid.me/pokemon) (🔀) - Guess the Pokémon based on its silhouette
 
-## 🎬 Movies
+## 🎬 Movies & Television
 - [Acted](https://acted.wtf) - Guess the name of a movie based on images of its actors
 - [Box Office Game](https://boxofficega.me) - Guess movies released on a random weekend based on a series of clues
 	- (♾️) All archived games are accessible with a donation of any amount
+- 🆕 [Castme](https://castme.wtf) - The Daily Movie and TV show game where you're given 6 tries to guess the film or series based on the faces of the actors! Unlock archive, maintain your streaks, and flex your entertainment knowledge!
 - [Cine2Nerdle](https://www.cinenerdle2.app) - Organize a grid of movies based on shared actors, plot points, and movie information
 - [Framed](https://framed.wtf) - Guess the movie based on its frames
+- 🆕 [KINO](http://www.dailykino.com) - Guess the TV show or movie based on hints and a gradually blur-focusing poster
 - 🆕 [Luminary](https://play-luminary.com) - Guess the actor from a sentence clue and four photos, three timed rounds a day
 - [MovieGrid.io](https://moviegrid.io) - Guess a grid of movies that match certain criteria
 - [Movie to Movie](https://movietomovie.com) - Find a path between two movies by connecting them via actors and actresses who appeared together
@@ -72,7 +76,13 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 ## 🏅 Sports
 - 🆕 [Footle](https://balliq.app/footle) - Daily football take on Wordle - six guesses to name a mystery footballer, with hints on nationality, position, age, club and shirt number, and a new player every day. Free, plays in the browser, no signup.
 - [Hertl](https://www.hertl.app) - Guess the NHL player based on clues
+- [Scorewit](https://www.scorewit.com) - Daily World Cup soccer trivia — six sourced questions a day
+	- [Scorewit Cricket](https://cricket.scorewit.com) - Daily Cricket World Cup trivia (ODI + T20)
+	- [Scorewit Baseball](https://baseball.scorewit.com) - Daily World Series trivia, every Fall Classic since 1903
+	- [Scorewit F1](https://f1.scorewit.com) - Daily Formula 1 history trivia, every season since 1950
+	- [Scorewit Gridiron](https://gridiron.scorewit.com) - Daily NFL history trivia, every season since 1999
 - 🆕 [Sportiz](https://playsportiz.com) - Across different sports, guess the mystery athlete based on facts about them and their career
+- 🆕 [StatBox](https://statbox.cc) - Guess the mystery player, revealing another fact about the player with each incorrect guess
 - 🆕 [World Cup Time Machine](https://wctm.app) (🤝) - Draft an all-time XI from 80 years of real World Cup squads (Pelé and Mbappé on one team), then play the group stage and knockouts to win the day's tournament
 
 ## 🧩 Puzzle
@@ -101,12 +111,16 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 
 ## ❓ Trivia & General Knowledge 🆕
 - [catfishing](https://catfishing.net/game/today) - Guess the Wikipedia article from its categories
+- 🆕 [Check Please](https://www.golunchlady.com/receipts) - Guess the NYC restaurant from a receipt.
 - [Daily Dozen Trivia](https://dailydozentrivia.com) - Answer trivia about 9 different topics
 - 🆕 [Daily Orbs](https://dailyorbs.com) (⭐) - Complete your choice of handcrafted daily trivia puzzles to get enough points to win for the day!
 - [Disorderly](https://playdisorderly.com) - Sort random items from a specific category
 - 🆕 [Earlier](https://playearlier.com) - For three questions, guess which of two events occurred earlier
 - 🆕 [Estimania](https://estimania.app) (⭐) - Make your best estimates for five daily trivia questions!
+- 🆕 [Guess the News](https://guessthenews.com) - Guess the missing word in today's real news headline
+- 🆕 [Jaardle](https://jaardle.com/) - Guess the year a historical event happened. One puzzle a day, the same for everyone, with optional clues to narrow it down. Available in 🇳🇱 Dutch, 🇬🇧 English, 🇩🇪 German, 🇪🇸 Spanish and 🇧🇷 Portuguese.
 - 🆕 [NORMIE](https://play-normie.com) - Answer three daily questions and guess how the crowd voted to see if you're normal
+- 🆕 [pictetra](https://pictetra.com) -  you have just 10 seconds and four multiple-choice options to guess what each one shows
 - [Thrice](https://thrice.geekswhodrink.com) - Solve five quiz questions from different categories with three or less hints
 - [Trivia Daily Dose](www.sporcle.com#daily-dose-section) by Sporcle (♾️) - A variety of Sporcle quizzes in random topics
 	- [Archive of previous daily quizzes](https://www.sporcle.com/games/tags/dailydose)
@@ -130,6 +144,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - [Quordle](https://www.merriam-webster.com/games/quordle) by Merriam-Webster - Guess four words at a time based on correct letters
 - 🆕 [Rebusly](https://www.rebusly.com) (⭐) - A free daily rebus puzzle drawn from today's news. Crack the visual, name the phrase, then read the coverage.
 - [RINARIN](https://www.rinarin.app) - Find four hidden words in a letter grid given the provided letter pool
+- 🆕 [Rung](https://dailyrung.com) - Guess the hidden everyday answer from five clues that descend from cryptic to obvious; guess early to score more, but a wrong guess burns two rungs
 - [Semantle](https://semantle.com) (🤝) - Guess the word with hints based on closeness of meaning to the actual word
 - 🆕 [Slideword](https://greatest.games/g/slideword) - Slide whole rows and columns of a 5x5 grid until all five rows spell words, with tap-to-reveal clues and Easy/Hard modes
 - [Spellcheck](https://spellcheckgame.com) - Like a spelling bee, try to spell a series of words based on their pronunciation
@@ -151,6 +166,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - [Globle](https://globle-game.com) - Guess the country on a globe with hints based on proximity (hot or cold)
 - [Juxtastat](https://urbanstats.org/quiz.html) - Choose between two locations for meeting a specific urban statistic
 - 🆕 [Statedoku](https://statedoku.com) (🔀) - Fill a 3×3 grid with US states matching both a row clue and a column clue (e.g. "borders Canada" × "no income tax")
+- 🆕 [TerraDex](https://terradex.mercilessstudio.com) - Solve the daily expedition of geography puzzles - country borders, real terrain, clocks, daylight and more (twelve games, five per day)
 - [TimeGuessr](https://timeguessr.com) (♾️) - Guess the time and location pictures are taken in
 - [Tradle](https://oec.world/en/tradle) - Guess the country based on their trade exports
 - [Travle](https://imois.in/games/travle) - Guess countries to make a connected land path between two given countries
@@ -163,10 +179,14 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - [Angle](https://angle.wtf) - Guess the pictured geometric angle by eye
 - 🆕 [Beat Darwin](https://beatdarwin.com) (⭐) - Guess the animal species based on a picture and biodiversity hints
 - 🆕 [Brandle](https://www.capitalle.app/brandle) (⭐) - Guess the brand from a blurred logo (popular game from Capitalle!)
+- 🆕 [Cars & Games](https://carsandgames.com/daily?utm_source=adoryvo&utm_campaign=adoryvo) - Everything from real world price guessing to car trivia, all combined into a single package with trackable result
 - [Chronophoto](https://www.chronophoto.app) (♾️) - Guess the year pictures are taken in
 - 🆕 [Close Hue](https://closehue.com) (⭐,♾️) - Given a color name, pick which color swatch matches it. Scored on how close your guess is. Daily challenges, unlimited mode, and multiplayer.
 - 🆕 [ClueTube](https://thecluetube.com) (⭐) - Guess the YouTube video based on its comments
 - 🆕 [Compoundle](https://compoundle.com) - Guess whether to invest, short, or pass on an stock based on the stock company's historical data
+- 🆕 [Gemdle](https://www.gemdle.com) (♾️) – Daily crystal, rock & gemstone guessing game using real specimen photos — plus unlimited quiz, guided identifier, and a 250+ stone A–Z guide.
+- 🆕 [Huedle](https://www.huedle.uk) - Huedle is a color gradient puzzle game - with a fresh board every day. Rearrange the tiles to form a perfect gradient across the grid. Your goal is to complete the grid in the least moves and fastest time. Easy to pick up, hard to put down.
+- 🆕 [NeuroSprint](https://playneurosprint.vercel.app) - A daily brain benchmark: 3 micro-tests (reaction time, number flash, sequence recall) in ~2 minutes. Everyone worldwide gets the same seeded challenge each UTC day,
 - 🆕 [The Daily Hue](https://thedailyhue.com) (⭐) - Guess the color from the famous artwork by adjusting and matching HSL sliders
 - 🆕 [TubeCount](https://tubecount.com) (⭐) - Guess how many views a real YouTube video got from its thumbnail
 
