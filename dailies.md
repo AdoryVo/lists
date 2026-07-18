@@ -115,6 +115,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - 🆕 [Cobble](wilf.live/cobble) - Submit two words that use up all of the day's letters, trying to minimize the length of your words.
 - [Connections](https://www.nytimes.com/games/connections) - Guess how a variety of words group into four different categories
 - [Down for a Cross](https://downforacross.com) (🤝,♾️) - Daily crosswords from various sites playable for free
+- 🆕 [Gazettle](https://gazettle.app) - Three daily word puzzles in one vintage newspaper: guess by letters (Classic), by meaning (Semantic), or build a word chain (Bridge). Free, no account.
 - 🆕 [Hunch](https://hunch.game) (⭐) - Guess the series of words based on hints about correct letters and positions. Like Wordle meets Mastermind!
 - 🆕 [Jumble](https://greatest.games/g/jumble) - Swap tiles in a 5x5 waffle grid to solve six interlocking five-letter words in 15 swaps or fewer
 - [Matter](https://thelemma.co/matter) (⭐) - Form nouns from a daily pool of 50 letters that would physically overpower the 3 daily target nouns
@@ -162,6 +163,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - 🆕 [ClueTube](https://thecluetube.com) (⭐) - Guess the YouTube video based on its comments
 - 🆕 [Compoundle](https://compoundle.com) - Guess whether to invest, short, or pass on an stock based on the stock company's historical data
 - 🆕 [The Daily Hue](https://thedailyhue.com) (⭐) - Guess the color from the famous artwork by adjusting and matching HSL sliders
+- 🆕 [TubeCount](https://tubecount.com) (⭐) - Guess how many views a real YouTube video got from its thumbnail
 
 ---
 ## Curations
