@@ -80,6 +80,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - 🆕 [DailyJig](https://dailyjig.com) - Solve the daily jigsaw puzzle and see your stats after you finish
 - 🆕 [Gerrymandle](https://gerrymandle.cc) - Draw electoral districts to help your party win the elections
 - 🆕 [Gradientle](https://gradientle.pages.dev) (⭐) - Constructing a 2d gradient from corner to corner by moving color tiles!
+- 🆕 [Gauntle](https://gauntle.com) - A daily back-to-back gauntlet of 11 puzzle games with one overall timer.
 - 🆕 [Loopy](https://loopy.wtf) (⭐) - Solve the daily path-drawing puzzle by drawing a closed loop that bends at the numbered spaces
 - 🆕 [Lost Art Games](https://www.lostartgames.com) - Solve a selection of daily puzzle games (quotes, words, and numbers)
 - 🆕 [Sections](https://www.sectionspuzzle.com/welcome/adoryvo) (⭐) - Fill a grid divided into sections. Each section must contain numbers 1 through its length with no repeats. A fresh alternative to Sudoku with a unique twist.
