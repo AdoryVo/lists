@@ -22,6 +22,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - [Kinda Hard Golf](https://kindahardgolf.com) - Play daily solo golf levels
 - [LoLdle](https://loldle.net) - Guess League of Legends champions based on a variety of criteria
 - [Lostgamer](https://lostgamer.io) (🔀) - Guess your location in video game maps from a first-person street view (like Geoguessr)
+- [OverwatchDLE](https://overwatchdle.day) - A free daily puzzle game for Overwatch fans. Two modes: guess the day's hero from attribute clues, or identify the map from a close-up image that zooms out with each wrong guess. A new puzzle every day, playable in multiple languages, no account needed.
 - [PokeDoku](https://pokedoku.com) - Guess a grid of Pokémon who match certain criteria
 - [Pokédle](https://pokedle.net) - Guess Pokémon based on a variety of criteria (like LoLdle!)
 - [Pokémon Cries](https://pokemoncries.com) - Guess the Pokémon based on its cry via multiple choice
@@ -36,9 +37,12 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 	- (♾️) All archived games are accessible with a donation of any amount
 - [Cine2Nerdle](https://www.cinenerdle2.app) - Organize a grid of movies based on shared actors, plot points, and movie information
 - [Framed](https://framed.wtf) - Guess the movie based on its frames
+- 🆕 [Luminary](https://play-luminary.com) - Guess the actor from a sentence clue and four photos, three timed rounds a day
 - [MovieGrid.io](https://moviegrid.io) - Guess a grid of movies that match certain criteria
 - [Movie to Movie](https://movietomovie.com) - Find a path between two movies by connecting them via actors and actresses who appeared together
 - 🆕 [Mr. Troove](https://www.mrtroove.com/en) (⭐) - Spot and guess the 10 movie references in the daily illustration!
+- 🆕 [Plot-Hole](https://plot-hole.com) - Guess the daily movie from 5 clues that go from vague to obvious; guess early to score higher
+- 🆕 [TV Addict](https://tv-addict.com) - Guess the daily TV show from 5 clues that go from vague to obvious
 
 ## 🎵 Music
 - [Bandle](https://bandle.app) - Guess the song based on a series of revealed instrument melodies
@@ -48,20 +52,25 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - 🆕 [Songless](https://www.songless.org) (+Ads, ♾️) - Guess the song based off of increasingly longer snippets
 - [Spotle](https://spotle.io/) - Guess the music artist based off of hints about them
 
+## 🕵️ Mystery (Logic & Deduction)
+- 🆕 [5Qs](https://www.play5qs.com) (⭐) - Ask 5 questions to an AI character source that responds with strict voice constraints to deduce the mystery scenario!
+- [Clues By Sam](https://cluesbysam.com) - Use clues to solve a logic puzzle grid
+	- (♾️) Edit the link https://cluesbysam.com/help/YYYY-MM-DD with the date you want to play, earliest is 2025-04-25
+- 🆕 [Daily Murder](https://dailymurder.com) (♾️) - Daily logic-deduction mystery. Use witness clues to identify the killer on a suspect/weapon/location grid.
+- [Murdle](https://murdle.com) - Solve mystery logic puzzles
+
 ## 🧑 People
 - [Chronogram](https://chronogram.chat) - Guess who the historical figure is by discussing with their reconstructed AI models
 - 🆕 [FaceGrid](https://facegrid.app) - Guess the character by revealing cells of a grid concealing their face
+- 🆕 [Footle](https://balliq.app/footle) - Daily football take on Wordle - six guesses to name a mystery footballer, with hints on nationality, position, age, club and shirt number, and a new player every day. Free, plays in the browser, no signup.
 - [Hertl](https://www.hertl.app) - Guess the NHL player based on clues
 - 🆕 [Sportiz](https://playsportiz.com) - Across different sports, guess the mystery athlete based on facts about them and their career
 - [Talldle](https://www.talldle.com) - Sort your favorite celebrities by height every day
 
 ## 🧩 Puzzle
-- 🆕 [5Qs](https://www.play5qs.com) (⭐) - Ask 5 questions to an AI character source that responds with strict voice constraints to deduce the mystery scenario!
 - 🆕 [Afterglow](https://greatest.games/g/afterglow) - Recall five colors shown one at a time, then rebuild each from memory with hue, saturation, and brightness sliders, scored on color-difference math
 - 🆕 [Angler](https://greatest.games/g/angler) - Guess the day's angle in four tries, guided by higher/lower hints and a hot-cold closeness tier
 - 🆕 [Chroma](https://greatest.games/g/chroma) - Match the daily target color in six guesses by mixing three palette shades, graded on real color-difference math
-- [Clues By Sam](https://cluesbysam.com) - Use clues to solve a logic puzzle grid
-	- (♾️) Edit the link https://cluesbysam.com/help/YYYY-MM-DD with the date you want to play, earliest is 2025-04-25
 - 🆕 [Daily](https://playdaily.org) - Complete the daily rotating puzzle game to compete with others on a global leaderboard
 - [Daily chess puzzle](https://www.chess.com/daily-chess-puzzle) by Chess.com - Find the best moves in a daily chess position
 	- (♾️) Playable up to a week in the past (unlimited with subscription)
@@ -70,7 +79,6 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - 🆕 [Gradientle](https://gradientle.pages.dev) (⭐) - Constructing a 2d gradient from corner to corner by moving color tiles!
 - 🆕 [Loopy](https://loopy.wtf) (⭐) - Solve the daily path-drawing puzzle by drawing a closed loop that bends at the numbered spaces
 - 🆕 [Lost Art Games](https://www.lostartgames.com) - Solve a selection of daily puzzle games (quotes, words, and numbers)
-- [Murdle](https://murdle.com) - Solve mystery logic puzzles
 - 🆕 [Sections](https://www.sectionspuzzle.com/welcome/adoryvo) (⭐) - Fill a grid divided into sections. Each section must contain numbers 1 through its length with no repeats. A fresh alternative to Sudoku with a unique twist.
 - 🆕 [Seedle](https://seedle.io) (⭐) - Place crops on a grid to optimize your grid score based off of plant, tile, and other effects!
 - 🆕 [Shrooms](https://greatest.games/g/shrooms) - Forage two mushrooms in every row, column, and colored region with none touching, across three timed daily sizes from 8x8 to 12x12
@@ -88,6 +96,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - [Disorderly](https://playdisorderly.com) - Sort random items from a specific category
 - 🆕 [Earlier](https://playearlier.com) - For three questions, guess which of two events occurred earlier
 - 🆕 [Estimania](https://estimania.app) (⭐) - Make your best estimates for five daily trivia questions!
+- 🆕 [NORMIE](https://play-normie.com) - Answer three daily questions and guess how the crowd voted to see if you're normal
 - [Thrice](https://thrice.geekswhodrink.com) - Solve five quiz questions from different categories with three or less hints
 - [Trivia Daily Dose](www.sporcle.com#daily-dose-section) by Sporcle (♾️) - A variety of Sporcle quizzes in random topics
 	- [Archive of previous daily quizzes](https://www.sporcle.com/games/tags/dailydose)
@@ -113,6 +122,8 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - [Spellcheck](https://spellcheckgame.com) - Like a spelling bee, try to spell a series of words based on their pronunciation
 - 🆕 [Tessera](https://www.tesserapuzzle.com) (⭐) - Swap tiles in a 4x4 letter grid to solve for the day's four word rows
 - 🆕 [Tilbo](https://tilbo.fun) (⭐) - Solve the Wordle x Tetris board by entering words to match with existing words' letters
+- 🆕 [Vendy](https://playvendy.com) (♾️) - Unscramble the letters in the Venn diagram to guess the two words
+- 🆕 [Virian](https://words.virian.tech) - Crossword game for those 65+, allowing seniors to constantly train their minds and memory.
 - [Waffle](https://wafflegame.net) - Wordle but in a waffle-shaped grid of six words
 - 🆕 [Word Bunny](https://wordbunny.app) (⭐) - Hop from the start word to the target word by adding, substituting, and removing letters, keeping each word a real word along the way
 - [Wordle](https://www.nytimes.com/games/wordle) - Guess the word with hints based on correct letters
@@ -126,6 +137,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - [Chartle](https://chartle.cc) (⭐) - Guess the country based on the mystery country's chart trajectory compared to other countries.
 - [Globle](https://globle-game.com) - Guess the country on a globe with hints based on proximity (hot or cold)
 - [Juxtastat](https://urbanstats.org/quiz.html) - Choose between two locations for meeting a specific urban statistic
+- 🆕 [Statedoku](https://statedoku.com) (🔀) - Fill a 3×3 grid with US states matching both a row clue and a column clue (e.g. "borders Canada" × "no income tax")
 - [TimeGuessr](https://timeguessr.com) (♾️) - Guess the time and location pictures are taken in
 - [Tradle](https://oec.world/en/tradle) - Guess the country based on their trade exports
 - [Travle](https://imois.in/games/travle) - Guess countries to make a connected land path between two given countries
