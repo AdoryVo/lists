@@ -22,6 +22,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - [Kinda Hard Golf](https://kindahardgolf.com) - Play daily solo golf levels
 - [LoLdle](https://loldle.net) - Guess League of Legends champions based on a variety of criteria
 - [Lostgamer](https://lostgamer.io) (🔀) - Guess your location in video game maps from a first-person street view (like Geoguessr)
+- [OverwatchDLE](https://overwatchdle.day) - A free daily puzzle game for Overwatch fans. Two modes: guess the day's hero from attribute clues, or identify the map from a close-up image that zooms out with each wrong guess. A new puzzle every day, playable in multiple languages, no account needed.
 - [PokeDoku](https://pokedoku.com) - Guess a grid of Pokémon who match certain criteria
 - [Pokédle](https://pokedle.net) - Guess Pokémon based on a variety of criteria (like LoLdle!)
 - [Pokémon Cries](https://pokemoncries.com) - Guess the Pokémon based on its cry via multiple choice
