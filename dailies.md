@@ -178,13 +178,14 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 10. [Guess The Game](https://guessthe.game)
 
 ### 🧑‍🎨 Strikingly Creative
-1. [ClueTube](https://thecluetube.com)
-2. [Matter](https://thelemma.co/matter)
-3. [catfishing](https://catfishing.net/game/today)
-4. [Tilbo](https://tilbo.fun)
-5. [Word Bunny](https://wordbunny.app)
-6. [The Daily Hue](https://thedailyhue.com)
-7. WIP - still considering my favorite candidates!
+1. [Rebusly](https://www.rebusly.com)
+2. [ClueTube](https://thecluetube.com)
+3. [Matter](https://thelemma.co/matter)
+4. [catfishing](https://catfishing.net/game/today)
+5. [Tilbo](https://tilbo.fun)
+6. [Word Bunny](https://wordbunny.app)
+7. [The Daily Hue](https://thedailyhue.com)
+8. WIP - still considering my favorite candidates!
 
 ### 🎮 Game Night Gauntlet
 1. [Gamedle](https://www.gamedle.wtf)
