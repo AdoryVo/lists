@@ -78,6 +78,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 	- (♾️) Playable up to a week in the past (unlimited with subscription)
 - [Daily Gogen](https://www.dailygogen.com) (⭐) - Solve logic puzzles by placing letters from a pool onto a grid to form the daily list of words from adjacent letters
 - 🆕 [DailyJig](https://dailyjig.com) - Solve the daily jigsaw puzzle and see your stats after you finish
+- 🆕 [Gerrymandle](https://gerrymandle.cc) - Draw electoral districts to help your party win the elections
 - 🆕 [Gradientle](https://gradientle.pages.dev) (⭐) - Constructing a 2d gradient from corner to corner by moving color tiles!
 - 🆕 [Loopy](https://loopy.wtf) (⭐) - Solve the daily path-drawing puzzle by drawing a closed loop that bends at the numbered spaces
 - 🆕 [Lost Art Games](https://www.lostartgames.com) - Solve a selection of daily puzzle games (quotes, words, and numbers)
