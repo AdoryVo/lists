@@ -61,7 +61,6 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - [Spotle](https://spotle.io/) - Guess the music artist based off of hints about them
 
 ## 🕵️ Mystery (Logic & Deduction)
-- [5Qs](https://www.play5qs.com) (⭐) - Ask 5 questions to an AI character source that responds with strict voice constraints to deduce the mystery scenario!
 - [Clues By Sam](https://cluesbysam.com) - Use clues to solve a logic puzzle grid
 	- (♾️) Edit the link https://cluesbysam.com/help/YYYY-MM-DD with the date you want to play, earliest is 2025-04-25
 - 🆕 [Daily Murder](https://dailymurder.com) (♾️) - Daily logic-deduction mystery. Use witness clues to identify the killer on a suspect/weapon/location grid
@@ -161,7 +160,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - [Zigzag](https://greatest.games/g/zigzag) - Trace a path picking one letter per column across a 4x5 grid to spell words; find 10 clued bonus words plus 10 freebies for a perfect 100
 
 ## 🌍 World
-- [Capitalle](https://www.capitalle.app) (⭐) - Solve your choice of eight different daily puzzle games (mostly World games!)
+- [Capitalle](https://www.capitalle.app) (🗂️) - Solve your choice of eight different daily puzzle games (mostly World games!)
 - [City Guesser](https://virtualvacation.us/guess) - Guess the city based on footage from a street view video
 - [Chartle](https://chartle.cc) (⭐) - Guess the country based on the mystery country's chart trajectory compared to other countries
 - [Globle](https://globle-game.com) - Guess the country on a globe with hints based on proximity (hot or cold)
