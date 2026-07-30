@@ -189,6 +189,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - 🆕 [Huekle](https://huekle.com) (color), [Hearkle](https://hearkle.com) (pitch) & [Chronkle](https://chronkle.com) (tempo) (🗂️) — daily perception games
 - 🆕 [MinCalc](https://mincalc.com) (🗂️) - Calm daily puzzles with animal themes
 - 🆕 [NeuroSprint](https://playneurosprint.vercel.app) - A daily brain benchmark: 3 micro-tests (reaction time, number flash, sequence recall) in ~2 minutes. Everyone worldwide gets the same seeded challenge each UTC day,
+- 🆕 [Read the Tape](https://readthetape.cc) - Guess whether 5 unlabelled S&P 500 charts go up or down over the next 5 trading days
 - 🆕 [Stoop](https://stoop.games) (🗂️) - tiny games, every day
 - [The Daily Hue](https://thedailyhue.com) (⭐) - Guess the color from the famous artwork by adjusting and matching HSL sliders
 - 🆕 [TubeCount](https://tubecount.com) (⭐) - Guess how many views a real YouTube video got from its thumbnail
