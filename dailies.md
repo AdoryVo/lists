@@ -75,6 +75,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 
 ## 🏅 Sports
 - 🆕 [Footle](https://balliq.app/footle) - Daily football take on Wordle - six guesses to name a mystery footballer, with hints on nationality, position, age, club and shirt number, and a new player every day. Free, plays in the browser, no signup.
+- 🆕 [Futbolle](https://futbolle.com) (🗂️,🤝) - 16 daily football games in one place - Wordle, club grid, missing XI, career path, transfer fees, logo quiz and more, plus a live head-to-head room. Six European leagues, playable in English, Spanish and Turkish. Free, no signup, no ads.
 - [Hertl](https://www.hertl.app) - Guess the NHL player based on clues
 - [Scorewit](https://www.scorewit.com) (🗂️) - Daily World Cup soccer trivia — six sourced questions a day
 	- [Scorewit Cricket](https://cricket.scorewit.com) - Daily Cricket World Cup trivia (ODI + T20)
