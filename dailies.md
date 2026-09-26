@@ -99,6 +99,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - 🆕 [Gauntle](https://gauntle.com) (🗂️) - A daily back-to-back gauntlet of 11 puzzle games with one overall timer.
 - [Loopy](https://loopy.wtf) (⭐) - Solve the daily path-drawing puzzle by drawing a closed loop that bends at the numbered spaces
 - [Lost Art Games](https://www.lostartgames.com) (🗂️) - Solve a selection of daily puzzle games (quotes, words, and numbers)
+- 🆕 [Noggin](https://noggin.games/?utm_source=adoryvo&utm_medium=directory) (🗂️,♾️) - Four small daily puzzles, each scored out of 100 so the day has one score: order six things on a hidden scale, climb a word ladder to a computed par, crack a code from exact/near/far counts, solve a logic grid. Free, no account, every past day playable
 - [Sections](https://www.sectionspuzzle.com/welcome/adoryvo) (⭐) - Fill a grid divided into sections. Each section must contain numbers 1 through its length with no repeats. A fresh alternative to Sudoku with a unique twist.
 - [Seedle](https://seedle.io) (⭐) - Place crops on a grid to optimize your grid score based off of plant, tile, and other effects!
 - 🆕 [Shrooms](https://greatest.games/g/shrooms) - Forage two mushrooms in every row, column, and colored region with none touching, across three timed daily sizes from 8x8 to 12x12
