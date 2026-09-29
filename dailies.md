@@ -64,6 +64,8 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - [Clues By Sam](https://cluesbysam.com) - Use clues to solve a logic puzzle grid
 	- (♾️) Edit the link https://cluesbysam.com/help/YYYY-MM-DD with the date you want to play, earliest is 2025-04-25
 - 🆕 [Daily Murder](https://dailymurder.com) (♾️) - Daily logic-deduction mystery. Use witness clues to identify the killer on a suspect/weapon/location grid
+- 🆕 [Lie of Sight](https://lieofsight.com) - Find the one family member lying about what they saw by moving everyone around a room and checking who could really see what
+	- (♾️) 25 bonus cases and this week's dailies to replay (every past daily with a one-time unlock)
 - [Murdle](https://murdle.com) - Solve mystery logic puzzles
 
 ## 🧑 People & Characters
