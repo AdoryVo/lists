@@ -28,6 +28,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - 🆕 [Mini Golf Club](https://minigolfclub.io/daily) - A 3D daily golf game with hundreds of challenging levels.
 - 🆕 [NintenDoku](https://www.n-puzzle.com/en/nintendoku) (♾️) - Fill a 3x3 grid where each cell needs a Nintendo game matching both its row and column category
 - 🆕 [OverwatchDLE](https://overwatchdle.day) - A free daily puzzle game for Overwatch fans. Two modes: guess the day's hero from attribute clues, or identify the map from a close-up image that zooms out with each wrong guess. A new puzzle every day, playable in multiple languages, no account needed.
+- 🆕 [OWdle](https://playowdle.com) (♾️) - OWdle is a free daily Overwatch guessing game with multiple modes. Test your Overwatch knowledge in classic mode, guess characters by their ability sounds, splash art, and more! No signups, completely free to play.
 - 🆕 [Perfect Game](https://www.n-puzzle.com/en/perfect-game) (♾️) - Pick the Nintendo game with the highest sales and Metacritic score across three rounds, then keep the cover you build
 - [PokeDoku](https://pokedoku.com) - Guess a grid of Pokémon who match certain criteria
 - [Pokédle](https://pokedle.net) - Guess Pokémon based on a variety of criteria (like LoLdle!)
