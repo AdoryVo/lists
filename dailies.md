@@ -99,6 +99,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - 🆕 [Gauntle](https://gauntle.com) (🗂️) - A daily back-to-back gauntlet of 11 puzzle games with one overall timer.
 - [Loopy](https://loopy.wtf) (⭐) - Solve the daily path-drawing puzzle by drawing a closed loop that bends at the numbered spaces
 - [Lost Art Games](https://www.lostartgames.com) (🗂️) - Solve a selection of daily puzzle games (quotes, words, and numbers)
+- 🆕 [Meowdoku](https://playmeowdoku.com) (♾️) - Place one cat in every row, column and colored region with no two cats touching; daily puzzle plus practice levels
 - [Sections](https://www.sectionspuzzle.com/welcome/adoryvo) (⭐) - Fill a grid divided into sections. Each section must contain numbers 1 through its length with no repeats. A fresh alternative to Sudoku with a unique twist.
 - [Seedle](https://seedle.io) (⭐) - Place crops on a grid to optimize your grid score based off of plant, tile, and other effects!
 - 🆕 [Shrooms](https://greatest.games/g/shrooms) - Forage two mushrooms in every row, column, and colored region with none touching, across three timed daily sizes from 8x8 to 12x12
@@ -163,6 +164,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - [Capitalle](https://www.capitalle.app) (🗂️) - Solve your choice of eight different daily puzzle games (mostly World games!)
 - [City Guesser](https://virtualvacation.us/guess) - Guess the city based on footage from a street view video
 - [Chartle](https://chartle.cc) (⭐) - Guess the country based on the mystery country's chart trajectory compared to other countries
+- 🆕 [Flagordle](https://flagordle.com) (♾️) - Guess the daily flag in six tries as each wrong guess reveals more of it, with distance and direction hints
 - [Globle](https://globle-game.com) - Guess the country on a globe with hints based on proximity (hot or cold)
 - [Juxtastat](https://urbanstats.org/quiz.html) - Choose between two locations for meeting a specific urban statistic
 - 🆕 [Statedoku](https://statedoku.com) (🔀) - Fill a 3×3 grid with US states matching both a row clue and a column clue (e.g. "borders Canada" × "no income tax")
