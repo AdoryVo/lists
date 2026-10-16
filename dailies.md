@@ -152,6 +152,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - [Tilbo](https://tilbo.fun) (⭐) - Solve the Wordle x Tetris board by entering words to match with existing words' letters
 - 🆕 [Vendy](https://playvendy.com) (♾️) - Unscramble the letters in the Venn diagram to guess the two words
 - 🆕 [Virian](https://words.virian.tech) - Crossword game for those 65+, allowing seniors to constantly train their minds and memory
+- 🆕 [Vowelkit](https://www.vowelkit.com/daily) (♾️) - Guess the five-letter word of the day, with 3 to 11 letter modes, a kids mode and custom puzzles
 - [Waffle](https://wafflegame.net) - Wordle but in a waffle-shaped grid of six words
 - [Word Bunny](https://wordbunny.app) (⭐) - Hop from the start word to the target word by adding, substituting, and removing letters, keeping each word a real word along the way
 - [Wordle](https://www.nytimes.com/games/wordle) - Guess the word with hints based on correct letters
