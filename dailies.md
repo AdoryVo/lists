@@ -97,6 +97,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - 🆕 [Gerrymandle](https://gerrymandle.cc) - Draw electoral districts to help your party win the elections
 - [Gradientle](https://gradientle.pages.dev) (⭐) - Constructing a 2D gradient from corner to corner by moving color tiles!
 - 🆕 [Gauntle](https://gauntle.com) (🗂️) - A daily back-to-back gauntlet of 11 puzzle games with one overall timer.
+- 🆕 [Hounds & Hydrants](https://greatest.games/g/hounds-and-hydrants) - Place one dog beside each fire hydrant, keep the dogs from touching, and match every row and column count in a dog-friendly take on the classic Trees and Tents logic puzzle
 - [Loopy](https://loopy.wtf) (⭐) - Solve the daily path-drawing puzzle by drawing a closed loop that bends at the numbered spaces
 - [Lost Art Games](https://www.lostartgames.com) (🗂️) - Solve a selection of daily puzzle games (quotes, words, and numbers)
 - [Sections](https://www.sectionspuzzle.com/welcome/adoryvo) (⭐) - Fill a grid divided into sections. Each section must contain numbers 1 through its length with no repeats. A fresh alternative to Sudoku with a unique twist.
