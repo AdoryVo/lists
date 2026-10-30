@@ -140,6 +140,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - [Matter](https://thelemma.co/matter) (⭐) - Form nouns from a daily pool of 50 letters that would physically overpower the 3 daily target nouns
 - [Minute Cryptic](https://www.minutecryptic.com) - Solve the word riddle by looking for hidden meanings in words
 - [Pixletters](https://pixletters.com) - Guess the word by the matching letter pixels in your guesses
+- [PoopleGame](https://pooplegame.fun) - Daily four-letter word ladder: change one letter per step to reach the target word, with progressive hints and a dated archive of past puzzles
 - [Quartiles](https://quartileswordgame.com) - Combine letter segments to make as many words as possible
 - [Quordle](https://www.merriam-webster.com/games/quordle) by Merriam-Webster - Guess four words at a time based on correct letters
 - 🆕 [Rebusly](https://www.rebusly.com) (⭐) - A free daily rebus puzzle drawn from today's news. Crack the visual, name the phrase, then read the coverage.
