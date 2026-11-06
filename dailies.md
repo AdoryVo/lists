@@ -163,6 +163,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - [Capitalle](https://www.capitalle.app) (🗂️) - Solve your choice of eight different daily puzzle games (mostly World games!)
 - [City Guesser](https://virtualvacation.us/guess) - Guess the city based on footage from a street view video
 - [Chartle](https://chartle.cc) (⭐) - Guess the country based on the mystery country's chart trajectory compared to other countries
+- [Flag a Day](https://flagaday.com) (♾️) - Guess the daily flag in 6 tries, hidden under tiles, with distance and direction hints after each wrong guess (plus a daily country-shape game and replayable flag quizzes)
 - [Globle](https://globle-game.com) - Guess the country on a globe with hints based on proximity (hot or cold)
 - [Juxtastat](https://urbanstats.org/quiz.html) - Choose between two locations for meeting a specific urban statistic
 - 🆕 [Statedoku](https://statedoku.com) (🔀) - Fill a 3×3 grid with US states matching both a row clue and a column clue (e.g. "borders Canada" × "no income tax")
