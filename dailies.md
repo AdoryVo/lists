@@ -121,6 +121,7 @@ Add an [issue on GitHub](https://github.com/AdoryVo/lists/issues) or email busin
 - 🆕 [Jaardle](https://jaardle.com/) - Guess the year a historical event happened. One puzzle a day, the same for everyone, with optional clues to narrow it down. Available in 🇳🇱 Dutch, 🇬🇧 English, 🇩🇪 German, 🇪🇸 Spanish and 🇧🇷 Portuguese.
 - 🆕 [NORMIE](https://play-normie.com) - Answer three daily questions and guess how the crowd voted to see if you're normal
 - 🆕 [pictetra](https://pictetra.com) -  you have just 10 seconds and four multiple-choice options to guess what each one shows
+- 🆕 [Plinkle Trivia](https://greatest.games/g/plinkle-trivia) - Drop a ball down a peg board five times and answer the next question in whichever category it lands, with each question worth more than the last
 - [Thrice](https://thrice.geekswhodrink.com) - Solve five quiz questions from different categories with three or less hints
 - [Trivia Daily Dose](www.sporcle.com#daily-dose-section) by Sporcle (♾️) - A variety of Sporcle quizzes in random topics
 	- [Archive of previous daily quizzes](https://www.sporcle.com/games/tags/dailydose)
